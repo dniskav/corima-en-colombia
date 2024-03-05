@@ -1050,44 +1050,7 @@ function submitfab(dept)
   return;
 }
 
-function ini_gramas(){
-		anagrama=document.getElementById("anagrama");
-		tablero=document.getElementById("tablero");
-		T1=document.getElementById("T1");
-		finalgrap=document.getElementById("finalgrap");
-		totalgrap=document.getElementById("totalgrap");
- 
-			TA=document.getElementById("TA");
-			TB=document.getElementById("TB");
-			TC=document.getElementById("TC");
-			TD=document.getElementById("TD");
-			TE=document.getElementById("TE");
-			TF=document.getElementById("TF");
-			TG=document.getElementById("TG");
-			TH=document.getElementById("TH");
-			TI=document.getElementById("TI");
-			TJ=document.getElementById("TJ");
-			TK=document.getElementById("TK");
-			TL=document.getElementById("TL");
-			TM=document.getElementById("TM");
-			TN=document.getElementById("TN");
-			TNN=document.getElementById("TNN");
-			TO=document.getElementById("TO");
-			TP=document.getElementById("TP");
-			TQ=document.getElementById("TQ");
-			TR=document.getElementById("TR");
-			TS=document.getElementById("TS");
-			TT=document.getElementById("TT");
-			TU=document.getElementById("TU");
-			TV=document.getElementById("TV");
-			TW=document.getElementById("TW");
-			TX=document.getElementById("TX");
-			TY=document.getElementById("TY");
-			TZ=document.getElementById("TZ");
-}
 function xgrama(codigo){
-	ini_gramas();
-	bgrama(T1.value);
 	finalgrap.value=totalgrap.value;
 	control=codigo.length-1;
 	codigo=codigo.toLowerCase();
@@ -1108,33 +1071,33 @@ function xgrama(codigo){
 			case "a":
 				if(_a==1){
 				;
-				TA.value--;
+				tablero.TA.value--;
 				xcodigo=xcodigo+opc;
-				if(TA.value<=0){_a=0;}
+				if(tablero.TA.value<=0){_a=0;}
 				}
 				break;
 			case "b":
 				if(_b==1){
 				;
-				TB.value--;
+				tablero.TB.value--;
 				xcodigo=xcodigo+opc;
-				if(TB.value<=0){_b=0;}
+				if(tablero.TB.value<=0){_b=0;}
 				}
 				break;
 			case "c":
 				if(_c==1){
 				;
-				TC.value--;
+				tablero.TC.value--;
 				xcodigo=xcodigo+opc;
-				if(TC.value<=0){_c=0;}
+				if(tablero.TC.value<=0){_c=0;}
 				}
 				break;
 			case "d":
 				if(_d==1){
 				;
-				TD.value--;
+				tablero.TD.value--;
 				xcodigo=xcodigo+opc;
-				if(TD.value<=0){_d=0;}
+				if(tablero.TD.value<=0){_d=0;}
 				}
 				break;
 			case "é":
@@ -1144,33 +1107,33 @@ function xgrama(codigo){
 			case "e":			
 				if(_e==1){
 				;
-				TE.value--;
+				tablero.TE.value--;
 				xcodigo=xcodigo+opc;
-				if(TE.value<=0){_e=0;}
+				if(tablero.TE.value<=0){_e=0;}
 				}
 				break;
 			case "f":
 				if(_f==1){
 				;
-				TF.value--;
+				tablero.TF.value--;
 				xcodigo=xcodigo+opc;
-				if(TF.value<=0){_f=0;}
+				if(tablero.TF.value<=0){_f=0;}
 				}
 				break;
 			case "g":
 				if(_g==1){
 				;
-				TG.value--;
+				tablero.TG.value--;
 				xcodigo=xcodigo+opc;
-				if(TG.value<=0){_g=0;}
+				if(tablero.TG.value<=0){_g=0;}
 				}
 				break;
 			case "h":
 				if(_h==1){
 				;
-				TH.value--;
+				tablero.TH.value--;
 				xcodigo=xcodigo+opc;
-				if(TH.value<=0){_h=0;}
+				if(tablero.TH.value<=0){_h=0;}
 				}
 				break;
 			case "í":
@@ -1180,57 +1143,57 @@ function xgrama(codigo){
 			case "i":
 				if(_i==1){
 				;
-				TI.value--;
+				tablero.TI.value--;
 				xcodigo=xcodigo+opc;
-				if(TI.value<=0){_i=0;}
+				if(tablero.TI.value<=0){_i=0;}
 				}
 				break;
 			case "j":
 				if(_j==1){
 				;
-				TJ.value--;
+				tablero.TJ.value--;
 				xcodigo=xcodigo+opc;
-				if(TJ.value<=0){_j=0;}
+				if(tablero.TJ.value<=0){_j=0;}
 				}
 				break;
 			case "k":
 				if(_k==1){
 				;
-				TK.value--;
+				tablero.TK.value--;
 				xcodigo=xcodigo+opc;
-				if(TK.value<=0){_k=0;}
+				if(tablero.TK.value<=0){_k=0;}
 				}
 				break;
 			case "l":
 				if(_l==1){
 				;
-				TL.value--;
+				tablero.TL.value--;
 				xcodigo=xcodigo+opc;
-				if(TL.value<=0){_l=0;}
+				if(tablero.TL.value<=0){_l=0;}
 				}
 				break;
 			case "m":
 				if(_m==1){
 				;
-				TM.value--;
+				tablero.TM.value--;
 				xcodigo=xcodigo+opc;
-				if(TM.value<=0){_m=0;}
+				if(tablero.TM.value<=0){_m=0;}
 				}
 				break;
 			case "n":
 				if(_n==1){
 				;
-				TN.value--;
+				tablero.TN.value--;
 				xcodigo=xcodigo+opc;
-				if(TN.value<=0){_n=0;}
+				if(tablero.TN.value<=0){_n=0;}
 				}
 				break;
 			case "ñ":
 				if(_nn==1){
 				;
-				TNN.value--;
+				tablero.TNN.value--;
 				xcodigo=xcodigo+opc;
-				if(TNN.value<=0){_n=0;}
+				if(tablero.TNN.value<=0){_n=0;}
 				}
 				break;
 			case "ó":
@@ -1240,49 +1203,49 @@ function xgrama(codigo){
 			case "o":
 				if(_o==1){
 				;
-				TO.value--;
+				tablero.TO.value--;
 				xcodigo=xcodigo+opc;
-				if(TO.value<=0){_o=0;}
+				if(tablero.TO.value<=0){_o=0;}
 				}
 				break;
 			case "p":
 				if(_p==1){
 				;
-				TP.value--;
+				tablero.TP.value--;
 				xcodigo=xcodigo+opc;
-				if(TP.value<=0){_p=0;}
+				if(tablero.TP.value<=0){_p=0;}
 				}
 				break;
 			case "q":
 				if(_q==1){
 				;
-				TQ.value--;
+				tablero.TQ.value--;
 				xcodigo=xcodigo+opc;
-				if(TQ.value<=0){_q=0;}
+				if(tablero.TQ.value<=0){_q=0;}
 				}
 				break;
 			case "r":
 				if(_r==1){
 				;
-				TR.value--;
+				tablero.TR.value--;
 				xcodigo=xcodigo+opc;
-				if(TR.value<=0){_r=0;}
+				if(tablero.TR.value<=0){_r=0;}
 				}
 				break;
 			case "s":
 				if(_s==1){
 				;
-				TS.value--;
+				tablero.TS.value--;
 				xcodigo=xcodigo+opc;
-				if(TS.value<=0){_s=0;}
+				if(tablero.TS.value<=0){_s=0;}
 				}
 				break;
 			case "t":
 				if(_t==1){
 				;
-				TT.value--;
+				tablero.TT.value--;
 				xcodigo=xcodigo+opc;
-				if(TT.value<=0){_t=0;}
+				if(tablero.TT.value<=0){_t=0;}
 				}
 				break;
 			case "ú":
@@ -1292,49 +1255,49 @@ function xgrama(codigo){
 			case "u":
 				if(_u==1){
 				;
-				TU.value--;
+				tablero.TU.value--;
 				xcodigo=xcodigo+opc;
-				if(TU.value<=0){_u=0;}
+				if(tablero.TU.value<=0){_u=0;}
 				}
 				break;
 			case "v":
 				if(_v==1){
 				;
-				TV.value--;
+				tablero.TV.value--;
 				xcodigo=xcodigo+opc;
-				if(TV.value<=0){_v=0;}
+				if(tablero.TV.value<=0){_v=0;}
 				}
 				break;
 			case "w":
 				if(_w==1){
 				;
-				TW.value--;
+				tablero.TW.value--;
 				xcodigo=xcodigo+opc;
-				if(TW.value<=0){_w=0;}
+				if(tablero.TW.value<=0){_w=0;}
 				}
 				break;
 			case "x":
 				if(_x==1){
 				;
-				TX.value--;
+				tablero.TX.value--;
 				xcodigo=xcodigo+opc;
-				if(TX.value<=0){_x=0;}
+				if(tablero.TX.value<=0){_x=0;}
 				}
 				break;
 			case "y":
 				if(_y==1){
 				;
-				TY.value--;
+				tablero.TY.value--;
 				xcodigo=xcodigo+opc;
-				if(TY.value<=0){_y=0;}
+				if(tablero.TY.value<=0){_y=0;}
 				}
 				break;
 			case "z":
 				if(_z==1){
 				;
-				TZ.value--;
+				tablero.TZ.value--;
 				xcodigo=xcodigo+opc;
-				if(TZ.value<=0){_z=0;}
+				if(tablero.TZ.value<=0){_z=0;}
 				}
 				break;
 			default:
@@ -1346,10 +1309,36 @@ function xgrama(codigo){
 }
 
 	function bgrama(cadena){
-		ini_gramas();
-		anagrama.value="";
 		_a =_b =_c =_d =_e =_f =_g =_h =_i =_j =_k =_l =_m =_n =_nn =_o =_p =_q =_r =_s =_t =_u =_v =_w =_x =_y =_z=0		
-			TA.value=TB.value=TC.value=TD.value=TE.value=TF.value=TG.value=TH.value=TI.value=TJ.value=TK.value=TL.value=TM.value=TN.value=TNN.value=TO.value=TP.value=TQ.value=TR.value=TS.value=TT.value=TU.value=TV.value=TW.value=TX.value=TY.value=TZ.value=0;
+
+
+			tablero.TA.value="";
+			tablero.TB.value="";
+			tablero.TC.value="";
+			tablero.TD.value="";
+			tablero.TE.value="";
+			tablero.TF.value="";
+			tablero.TG.value="";
+			tablero.TH.value="";
+			tablero.TI.value="";
+			tablero.TJ.value="";
+			tablero.TK.value="";
+			tablero.TL.value="";
+			tablero.TM.value="";
+			tablero.TN.value="";
+			tablero.TNN.value="";
+			tablero.TO.value="";
+			tablero.TP.value="";
+			tablero.TQ.value="";
+			tablero.TR.value="";
+			tablero.TS.value="";
+			tablero.TT.value="";
+			tablero.TU.value="";
+			tablero.TV.value="";
+			tablero.TW.value="";
+			tablero.TX.value="";
+			tablero.TY.value="";
+			tablero.TZ.value="";
 
 	control=cadena.length
 	cadena=cadena.toLowerCase()
@@ -1364,22 +1353,22 @@ function xgrama(codigo){
 			case "å":
 			case "a":
 				;
-				TA.value++;
+				tablero.TA.value++;
 				_a=1;
 				break;
 			case "b":
 				;
-				TB.value++;
+				tablero.TB.value++;
 				_b=1;
 				break;
 			case "c":
 				;
-				TC.value++;
+				tablero.TC.value++;
 				_c=1;
 				break;
 			case "d":
 				;
-				TD.value++;
+				tablero.TD.value++;
 				_d=1;
 				break;
 			case "é":
@@ -1388,22 +1377,22 @@ function xgrama(codigo){
 			case "ë":
 			case "e":			
 				;
-				TE.value++;
+				tablero.TE.value++;
 				_e=1;
 				break;
 			case "f":
 				;
-				TF.value++;
+				tablero.TF.value++;
 				_f=1;
 				break;
 			case "g":
 				;
-				TG.value++;
+				tablero.TG.value++;
 				_g=1;
 				break;
 			case "h":
 				;
-				TH.value++;
+				tablero.TH.value++;
 				_h=1;
 				break;
 			case "í":
@@ -1412,37 +1401,37 @@ function xgrama(codigo){
 			case "î":
 			case "i":
 				;
-				TI.value++;
+				tablero.TI.value++;
 				_i=1;
 				break;
 			case "j":
 				;
-				TJ.value++;
+				tablero.TJ.value++;
 				_j=1;
 				break;
 			case "k":
 				;
-				TK.value++;
+				tablero.TK.value++;
 				_k=1;
 				break;
 			case "l":
 				;
-				TL.value++;
+				tablero.TL.value++;
 				_l=1;
 				break;
 			case "m":
 				;
-				TM.value++;
+				tablero.TM.value++;
 				_m=1;
 				break;
 			case "n":
 				;
-				TN.value++;
+				tablero.TN.value++;
 				_n=1;
 				break;
 			case "ñ":
 				;
-				TNN.value++;
+				tablero.TNN.value++;
 				_nn=1;
 				break;
 			case "ó":
@@ -1451,32 +1440,32 @@ function xgrama(codigo){
 			case "ô":
 			case "o":
 				;
-				TO.value++;
+				tablero.TO.value++;
 				_o=1;
 				break;
 			case "p":
 				;
-				TP.value++;
+				tablero.TP.value++;
 				_p=1;
 				break;
 			case "q":
 				;
-				TQ.value++;
+				tablero.TQ.value++;
 				_q=1;
 				break;
 			case "r":
 				;
-				TR.value++;
+				tablero.TR.value++;
 				_r=1;
 				break;
 			case "s":
 				;
-				TS.value++;
+				tablero.TS.value++;
 				_s=1;
 				break;
 			case "t":
 				;
-				TT.value++;
+				tablero.TT.value++;
 				_t=1;
 				break;
 			case "ú":
@@ -1485,32 +1474,32 @@ function xgrama(codigo){
 			case "û":
 			case "u":
 				;
-				TU.value++;
+				tablero.TU.value++;
 				_u=1;
 				break;
 			case "v":
 				;
-				TV.value++;
+				tablero.TV.value++;
 				_v=1;
 				break;
 			case "w":
 				;
-				TW.value++;
+				tablero.TW.value++;
 				_w=1;
 				break;
 			case "x":
 				;
-				TX.value++;
+				tablero.TX.value++;
 				_x=1;
 				break;
 			case "y":
 				;
-				TY.value++;
+				tablero.TY.value++;
 				_y=1;
 				break;
 			case "z":
 				;
-				TZ.value++;
+				tablero.TZ.value++;
 				_z=1;
 				break;
 			default:

@@ -1,0 +1,142 @@
+body {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 95%;
+	margin: 0px;
+	padding: 0px;
+	background-color: #F2F2E6;
+}
+div#main {
+	margin-right: auto;
+	margin-left: auto;
+	width: 99%;
+	overflow: visible;
+	background-color: #FFFFFF;
+	padding: 2px;
+	border: thin solid #CCCCCC;
+}
+div#banner {
+	color: #333;
+	width: 100%;
+	border: 1px solid #ccc;
+	height: 180px;
+	margin-bottom: 2px;
+	background-color: #BD9C8C;
+	background-image: url(../images/titulo-corima_06.jpg);
+	text-align: center;
+	overflow: hidden;
+}
+div#logo {
+	padding: 5px;
+	margin-right: auto;
+	margin-left: 0px;
+	width: 195px;
+	float: left;
+}
+div#let {
+}
+div#menu_izq {
+	color: #333;
+	width: 210px;
+	float: left;
+	background-repeat: repeat-y;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+div#contenido {
+	color: #333;
+	padding: 10px;
+	margin-left: 222px;
+}
+div#pie {
+	clear: both;
+	color: #fff;
+	border: 1px solid #ccc;
+	padding: 10px;
+	background-color: #000000;
+	background-image: url(../images/base_fondo_08.jpg);
+	height: 2em;
+	overflow: hidden;
+}
+div#clear_div {
+	clear: both;
+}
+div#cuerpo {
+	overflow: visible;
+	margin-bottom: 2px;
+}
+div#barra_tit {
+	background-image: url(../images/fondoTitle.jpg);
+	height: 40px;
+	margin-bottom: 3px;
+}
+div#cuerpo_dr {
+	background-image: url(../images/bar_az_mun.jpg);
+	background-repeat: repeat-y;
+	background-position: left;
+	margin-bottom: 5px;
+}
+div#infomail {
+	color: #FFFF99;
+	float: left;
+	width: 200px;
+}
+div#google {
+	text-align: center;
+	margin-left: 210px;
+}
+div#tituloA {
+	color: #333;
+	padding: 10px;
+	margin-left: 222px;
+	overflow: hidden;
+}
+div#tituloA h2 {
+	color: #FFFF00;
+	font-size: medium;
+	margin: 0px;
+	padding: 0px;
+	text-align: center;
+	font-weight: bold;
+}
+div#menu_izq ul {
+	list-style-type: none;
+	margin: 0px;
+	padding: 0px;
+	background-image: url(../images/bar_az_mun.jpg);
+	background-repeat: repeat-y;
+	background-position: left;
+}
+div#menu_izq ul li a {
+	display: block;
+	color: #FFFF00;
+	text-decoration: none;
+	font-weight: bold;
+}
+div#menu_izq ul li a:hover, div#menu_izq ul li a:active, div#menu_izq ul li a:focus {
+	color: #FFFFFF;
+	background-image: url(../images/btn_mnu_ov.jpg);
+	background-repeat: repeat-x;
+	background-position: left;
+}
+div#menu_izq ul li {
+	margin-left: 0.5em;
+}
+div#contenido h3 {
+	color: #0099FF;
+	text-align: center;
+}
+div#contenido h2 {
+	color: #0099FF;
+}
+#pub_zone {
+	text-align: center;
+}
+div#mensaje {
+	font-size: 90%;
+	color: #FFFFFF;
+	padding: 1em;
+}
