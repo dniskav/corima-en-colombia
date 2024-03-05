@@ -1,0 +1,93 @@
+.button, 
+.select { 
+	font-size: 10px;
+}
+.buttonmouseover { 
+	font-size: 10px; background-color: #DDDDDD; cursor:hand;
+}
+.Estilo1 {
+	font-size: 9px;
+}
+.Estilo2 {
+	font-size: 10px;
+}
+#im {
+	FILTER: alpha(opacity=20)
+}
+
+h1 {  font-size: 20px; color: #FFFF00; font-family: Arial, Helvetica, sans-serif, "Arial Black";
+ 		font-weight: bold; font-variant: normal
+}
+
+p {
+	font-size: 12px;
+	color: #000033;
+	font-weight: normal;
+	font-style: normal;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+h3 {
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	color: #0099FF;
+	font-size: 16px;
+}
+h6 {
+	color: #FFFFFF;
+}
+body {
+	background-color: #000066;
+}
+h2 {
+	font-family: Arial, Helvetica, sans-serif, "Arial Black";
+	font-size: 18px;
+	color: #FFFF00;
+}
+h4 {
+	color: #FFFFFF;
+}
+a:link {
+	font-size: 14px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: normal;
+	text-decoration: none;
+}
+a:visited {
+	font-size: 16px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: normal;
+	text-decoration: none;
+}
+.tabla_fondo {
+	align: "center";
+	background-color:#D5D8FF;
+}
+.fondo_cel_vista {
+	background-image: url(../imagenes/agua_azul.jpg);
+}
+.tabla_fondo_area {
+}
+.titulo_barra {
+	background-image: url(../imagenes/titulo/Images/titulo-corima_05.jpg);
+}
+.data_title {
+	background-image: url(../imagenes/tabla%20base/fondoTitle.jpg);
+	height: 34px;
+}
+.lado_mnu {
+	background-image: url(../imagenes/barra%20menu/Images/base_02.jpg);
+}
+.lado_mnu2 {
+	background-image: url(../imagenes/barra%20menu/Images/base_04.jpg);
+}
+.fondo_cel_vista {
+	background-image: url(../imagenes/barra%20menu/Images/base_03.jpg);
+}
+.bse_ngr {
+	background-image: url(../imagenes/Images/base_fondo_06.jpg);
+}
+h5 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: small;
+	font-style: normal;
+	color: #0099FF;
+}

@@ -19,7 +19,7 @@
 <body onLoad="window.print();">
 <center>
   <p>
-    <script language="javascript" src="../templates/corimadiv/js/corima.js"></script>
+    <script language="javascript" src="../Templates/corima.js"></script>
     <SCRIPT LANGUAGE=JavaScript>
 function pasarDatos(){
 	window.document.estrellaFlash.SetVariable("A.num.text", <?php echo $_GET['_a']; ?>);

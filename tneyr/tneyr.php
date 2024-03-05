@@ -1,26 +1,159 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/base.dwt" codeOutsideHTMLIsLocked="false" -->
+<html><!-- InstanceBegin template="/Templates/base.dwt" codeOutsideHTMLIsLocked="false" -->
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<!-- InstanceBeginEditable name="doctitle" -->
-<title>Documento sin t&iacute;tulo</title>
-<!-- InstanceEndEditable --><!-- InstanceBeginEditable name="head" -->
+
+
+<!-- InstanceBeginEditable name="cabeza" -->
 <title>base NW</title>
 <!-- InstanceEndEditable -->
-<link href="corimadiv/css/main.css"  rel="stylesheet" type="text/css" />
-<!-- InstanceBeginEditable name="js" -->
-<script language="javascript" src="corimadiv/js/corima.js"></script>
-<!-- InstanceEndEditable -->
-<!-- InstanceBeginEditable name="robots" -->
-<title>Documento sin t&iacute;tulo</title>
-<!-- InstanceEndEditable -->
+<script src="../Templates/corima.js" language="JavaScript" type="text/javascript"></script>
+<meta name="description" content="Esta es sitio web para invitarte a recorrer el arcoiris de los conocimientos"/>
 <!-- InstanceBeginEditable name="keywords" -->
-<title>Documento sin t&iacute;tulo</title>
+<meta name="Keywords" content="angel, angeles, arcangel, arcangeles, principados, potestades, tronos, trono, dominaciones, serafin, serafines, querubin, querubines, fabulas en colombia, fabulas de colombia, arcoiris, jesus, Jesus, biblia, nostradamus, investigar, corima, colombia, fabulas, astronomia, constelaciones, astrologia, zodiaco, predicciones, ruta, sol, corimita, amor, juegos, angeles, trajes, metodo, huella, nombre, amazonas, atlantico, arauca, bolivar, boyaca, caldas, caqueta, casanare, cauca, cesar, choco, cordoba, cundinamarca, guainia, guajira, guaviare, huila, magdalena, meta, narino, norte de santander, santander, sucre, tolima, valle, vaupes, vichada, historia, metodo, anagrama, caligrama, magia, magico, acuario, aries, cancer, capricornio, geminis, gemmnis, leo, libra, pisis, piscis, sagitario, scorpio, escorpion, tauro, virgo, angeles, mensajeros, celestiales, mapa, consulta, religion, metafisica, esoterismo, cristiano, catolico, espiritual, mensajeros, celestiales, celestial, congreso, tangrama, rompecabezas, sopa de letras,  matematicas, tarot, notredame, nombre, metodo, inventos mundiales, inventos, navidad,  cristo, naipe, bolsa, bolsa de valores, valores, invitacion, invitacion de gmail, herramientas, impresindibles, winzip, winrar, futuro, flores, Antivirus, AntiSpyware, Mensageria instantanea, Navegadores, p2p, Firewall o Cortafuegos, Compresores, Reproductores de Sonido, Reproductores de Video, Grabacion de CDs y DVDs, Analisis y Optimizacion, Otros"/>
 <!-- InstanceEndEditable -->
+<meta name="robots" content="ALL"/> 
+
+<link href="../Templates/corima.css" rel="stylesheet" type="text/css" />
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<style type="text/css">
+<!--
+.Estilo3 {color: #FFFF00}
+.Estilo4 {color: #FFFF00; font-size: 9px; }
+.Estilo5 {color: #FFFFCC}
+.Estilo7 {font-family: Verdana, Arial, Helvetica, sans-serif}
+.Estilo8 {color: #FFFFCC; font-family: Verdana, Arial, Helvetica, sans-serif; }
+.Estilo9 {
+	color: #FFFF00;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+}
+-->
+</style>
 </head>
-<body>
-<!-- InstanceBeginEditable name="Titulo" --> Resultado<!-- InstanceEndEditable -->
-<div id="contenido"> <!-- InstanceBeginEditable name="Contenido" -->
+
+<body onload="MM_preloadImages('../imagenes/btn_mnu_ov.jpg')">
+<table width="100%" height="0" border="0" align="center" cellpadding="0" cellspacing="0" ><!--DWLayoutTable-->
+  
+
+  
+  <tr>
+    <td height="1" colspan="3"><img src="../spacer.gif" alt="" width="177" height="1" /></td>
+    <td width="18"></td>
+    <td width="100%"></td>
+    <td width="24"></td>
+  </tr>
+  <tr><td width="12" height="19">    
+  <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+  
+  <tr>
+    <td height="169" valign="top" background="../imagenes/titulo/Images/titulo-corima_06.jpg"><!--DWLayoutEmptyCell-->&nbsp;</td>
+    <td width="195" align="center" valign="middle" background="../imagenes/titulo/Images/titulo-corima_06.jpg"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="116" height="169">
+      <param name="movie" value="../imagenes/corimita.swf" />
+      <param name="quality" value="high" />
+      <embed src="../imagenes/corimita.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="116" height="169" ></embed>
+    </object></td>
+    <td colspan="2" valign="top" background="../imagenes/titulo/Images/titulo-corima_06.jpg" bgcolor="#FFFFFF"><!--DWLayoutEmptyCell-->&nbsp;</td>
+    <td align="center" valign="top" background="../imagenes/titulo/Images/titulo-corima_06.jpg" bgcolor="#FFFFFF"><div><a href="../index.htm"><img src="../imagenes/titulo-corima.jpg" alt="logo" width="570" height="126" border="0" align="middle" /></a></div>      
+    <p align="center"><a href="../index.htm"></a>
+      <iframe src="/iplocator.php" frameborder="0" height="33" width="411" allowtransparency="allowtransparency" scrolling="No"></iframe>
+    </p></td>
+    <td valign="top" background="../imagenes/titulo/Images/titulo-corima_06.jpg" bgcolor="#FFFFFF"><!--DWLayoutEmptyCell-->&nbsp;</td>
+  </tr>
+  
+  
+  <tr>
+    <td height="1" colspan="3"><img src="../spacer.gif" alt="" width="177" height="1" /></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  
+  <tr>
+    <td height="40" valign="top" class="lado_mnu"><img src="../imagenes/tabla%20base/fondoTitle.jpg" width="12" height="40" /></td>
+    <td align="center" valign="middle" class="data_title"><a href="http://miarroba.com/libros/firmar.php?id=144582" target="_blank" class="Estilo5" id="visit">Firma mi libro de visitas</a></td>
+    <td colspan="2" valign="top" bgcolor="#FFFFFF" class="data_title"><!--DWLayoutEmptyCell-->&nbsp;</td>
+    <td align="center" valign="middle" bgcolor="#FFFFFF" class="data_title"><span class="Estilo9"><!-- InstanceBeginEditable name="Titulo" --> Resultado<!-- InstanceEndEditable --></span></td>
+    <td valign="top" bgcolor="#FFFFFF" class="data_title"><!--DWLayoutEmptyCell-->&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="20" background="../imagenes/barra%20menu/Images/base_02.jpg">&nbsp;</td>
+    <td valign="top" class="fondo_cel_vista"><!--DWLayoutEmptyCell-->&nbsp;</td>
+    <td width="11" class="lado_mnu2">&nbsp;</td>
+    <td valign="top" bgcolor="#FFFFFF"><img src="../imagenes/tabla%20base/tabla1_03.gif" width="18" height="20" /></td>
+    <td valign="top" background="../imagenes/tabla%20base/tabla1_05.gif" bgcolor="#FFFFFF"><!--DWLayoutEmptyCell-->&nbsp;</td>
+    <td valign="top" bgcolor="#FFFFFF"><img src="../imagenes/tabla%20base/tabla1_07.gif" width="22" height="20" /></td>
+  </tr>
+  <tr>
+    <td height="368" background="../imagenes/barra%20menu/Images/base_02.jpg">&nbsp;</td>
+    <td align="center" valign="top" background="../imagenes/bar_az_med_mun.jpg" class="fondo_cel_vista"><p><a href="http://miarroba.com/libros/leer.php?id=144582" target="_blank" class="Estilo3">Lee mi libro de visitas</a>
+      <table width="185" border="1">
+        <tr>
+          <td width="175" height="347"><table width="170" border="0" align="center" cellpadding="0" cellspacing="0">
+              <!--DWLayoutTable-->
+              <tr>
+                <td colspan="3" class="Estilo8" onmouseover="this.background='../imagenes/btn_mnu_ov.jpg'" onmouseout="this.background=''" onmousedown="this.background='../imagenes/btn_mnu_press.jpg'; cj.click()"><a href="../cjesus/cjesus.htm" class="Estilo1 Estilo1 Estilo3" id="cj">Consulta a Jes&uacute;s</a></td>
+              </tr>
+              <tr>
+                <td colspan="3" class="Estilo8" onmouseover="this.background='../imagenes/btn_mnu_ov.jpg'" onmouseout="this.background=''" onmousedown="this.background='../imagenes/btn_mnu_press.jpg'; fcol.click()" ><a href="../fcol/fcol.htm" class="Estilo3 Estilo1 Estilo1" id="fcol">F&aacute;bulas de Colombia</a></td>
+              </tr>
+              <tr>
+                <td colspan="3" class="Estilo8"  onmouseover="this.background='../imagenes/btn_mnu_ov.jpg'" onmouseout="this.background=''" onmousedown="this.background='../imagenes/btn_mnu_press.jpg'; metcor.click()"><a href="nombre.htm" class="Estilo3 Estilo1 Estilo1" id="metcor">Metodo Corima</a> </td>
+              </tr>
+              <tr>
+                <td width="48" valign="top" class="Estilo8" onmouseover="this.background='../imagenes/btn_mnu_ov.jpg'" onmouseout="this.background=''" onmousedown="this.background='../imagenes/btn_mnu_press.jpg'; M_arbol.click()"><a href="../tafft/arbol.htm" class="Estilo3 Estilo1 Estilo1" id="M_arbol">Arbol</a></td>
+                <td width="34" valign="top" class="Estilo8" onmouseover="this.background='../imagenes/btn_mnu_ov.jpg'" onmouseout="this.background=''" onmousedown="this.background='../imagenes/btn_mnu_press.jpg'; M_flor.click()"><a href="../tafft/florero.htm" class="Estilo4"  id="M_flor" >Flor</a></td>
+                <td width="45" valign="top" class="Estilo8" onmouseover="this.background='../imagenes/btn_mnu_ov.jpg'" onmouseout="this.background=''" onmousedown="this.background='../imagenes/btn_mnu_press.jpg'; M_fruto.click()"><a href="../tafft/fruto.htm"  class="Estilo4" id="M_fruto">Fruto</a></td>
+              </tr>
+              <tr>
+                <td colspan="3" class="Estilo8" onmouseover="this.background='../imagenes/btn_mnu_ov.jpg'" onmouseout="this.background=''" onmousedown="this.background='../imagenes/btn_mnu_press.jpg'; M_ep.click()"><a href="../ep/ep.htm" class="Estilo3 Estilo1 Estilo1"  id="M_ep">Estrellas Peque&ntilde;as</a></td>
+              </tr>
+              <tr>
+                <td colspan="3"  class="Estilo8" onmouseover="this.background='../imagenes/btn_mnu_ov.jpg'" onmouseout="this.background=''" onmousedown="this.background='../imagenes/btn_mnu_press.jpg'; M_ntdrame.click()"><a href="../ntradame/ntradame-INTRO.htm"  class="Estilo3 Estilo1 Estilo1" id="M_ntdrame">Nostradamus</a></td>
+              </tr>
+              <tr>
+                <td colspan="3"  class="Estilo8" onmouseover="this.background='../imagenes/btn_mnu_ov.jpg'" onmouseout="this.background=''" onmousedown="this.background='../imagenes/btn_mnu_press.jpg'; M_rsol.click()"><a href="../rsol/la_ruta_del_sol.htm"  class="Estilo3 Estilo1 Estilo1" id="M_rsol">La Ruta del Sol</a></td>
+              </tr>
+              <tr>
+                <td colspan="3"  class="Estilo8" onmouseover="this.background='../imagenes/btn_mnu_ov.jpg'" onmouseout="this.background=''" onmousedown="this.background='../imagenes/btn_mnu_press.jpg'; M_fcor.click()"><a href="../fcor/fcor.htm" class="Estilo3 Estilo1 Estilo1"  id="M_fcor">Fabula de Corima</a></td>
+              </tr>
+              <tr>
+                <td colspan="3"  class="Estilo8" onmouseover="this.background='../imagenes/btn_mnu_ov.jpg'" onmouseout="this.background=''" onmousedown="this.background='../imagenes/btn_mnu_press.jpg'; M_pys.click()"><a href="../pys/pys.htm" class="Estilo3 Estilo1 Estilo1"  id="M_pys">Productos y Servicios</a></td>
+              </tr>
+              <tr>
+                <td colspan="3"  class="Estilo8" onmouseover="this.background='../imagenes/btn_mnu_ov.jpg'" onmouseout="this.background=''" onmousedown="this.background='../imagenes/btn_mnu_press.jpg'; M_mc.click()"><a href="../mc/mc.htm" class="Estilo3 Estilo1 Estilo1"  id="M_mc">Mensajeros Celestiales</a> </td>
+              </tr>
+              <tr>
+                <td colspan="3"  class="Estilo8" onmouseover="this.background='../imagenes/btn_mnu_ov.jpg'" onmouseout="this.background=''" onmousedown="this.background='../imagenes/btn_mnu_press.jpg'; M_jugar.click()"><a href="../ludo/jugar.htm" class="Estilo3 Estilo1 Estilo1" id="M_jugar">Juguemos</a></td>
+              </tr>
+              <tr>
+                <td colspan="3"  class="Estilo8" onmouseover="this.background='../imagenes/btn_mnu_ov.jpg'" onmouseout="this.background=''" onmousedown="this.background='../imagenes/btn_mnu_press.jpg'; M_artik.click()"><a href="../articulos/Articulos.htm" class="Estilo3 Estilo1 Estilo1"  id="M_artik">Articulos</a></td>
+              </tr>
+              <tr>
+                <td colspan="3"  class="Estilo8" onmouseover="this.background='../imagenes/btn_mnu_ov.jpg'" onmouseout="this.background=''" onmousedown="this.background='../imagenes/btn_mnu_press.jpg'; M_eh.click()"><a href="http://groups.msn.com/estrellashumanas" class="Estilo3 Estilo1 Estilo1"  id="M_eh">Estrellas Humanas</a></td>
+              </tr>
+              <tr>
+                <td colspan="3"  class="Estilo8" onmouseover="this.background='../imagenes/btn_mnu_ov.jpg'" onmouseout="this.background=''" onmousedown="this.background='../imagenes/btn_mnu_press.jpg'; M_tools.click()"><a href="../tools/tools.htm" class="Estilo3 Estilo1 Estilo1"  id="M_tools">Herramientas</a></td>
+              </tr>
+              <tr>
+                <td colspan="3"  class="Estilo8" onmouseover="this.background='../imagenes/btn_mnu_ov.jpg'" onmouseout="this.background=''" onmousedown="this.background='../imagenes/btn_mnu_press.jpg'; M_pm.click()"><a href="../plantasM/plantasm.html" class="Estilo3 Estilo1 Estilo1"  id="M_pm">Plantas Milagrosas </a></td>
+              </tr>
+              <tr>
+                <td colspan="3"  class="Estilo8" onmouseover="this.background='../imagenes/btn_mnu_ov.jpg'" onmouseout="this.background=''" onmousedown="this.background='../imagenes/btn_mnu_press.jpg'; M_af.click()"><a href="../adfechas/adfechas.html" class="Estilo3 Estilo1 Estilo1"  id="M_af">Adorables Fechas </a></td>
+              </tr>
+              <tr>
+                <td colspan="3"  class="Estilo8" onmouseover="this.background='../imagenes/btn_mnu_ov.jpg'" onmouseout="this.background=''" onmousedown="this.background='../imagenes/btn_mnu_press.jpg'; videos.click()"><a href="../videos/videos.html"  class="Estilo1 Estilo3 Estilo1 Estilo1" id="videos">Videos</a></td>
+              </tr>
+              <tr>
+                <td colspan="3"  class="Estilo8" onmouseover="this.background='../imagenes/btn_mnu_ov.jpg'" onmouseout="this.background=''" onmousedown="this.background='../imagenes/btn_mnu_press.jpg'; M_correo.click()"><a href="mailto:corima937@hotmail.com"  class="Estilo1 Estilo3 Estilo1 Estilo1" id="M_correo">Escribele a Corima</a></td>
+              </tr>
+            </table>
+              <div align="center"></div></td>
+        </tr>
+      </table>
+      </p></td>
+    <td class="lado_mnu2">&nbsp;</td>
+    <td rowspan="4" valign="top" background="../imagenes/tabla%20base/tabla1_12.gif" bgcolor="#FFFFFF"><!--DWLayoutEmptyCell-->&nbsp;</td>
+    <td rowspan="4" valign="top" bgcolor="#FFFFFF"><!-- InstanceBeginEditable name="Contenido" -->
 <script language="JavaScript" type="text/javascript">
 
 function imprimir_var(){
@@ -61,12 +194,24 @@ return;
 }
 </script> 
 
-<?php 
-include('palabra.php'); 
-function elimina_acentos($cadena){
-	$tofind = "ÀÁÂÃÄÅàáâãäåÒÓÔÕÖØòóôõöøÈÉÊËèéêëÇçÌÍÎÏìíîïÙÚÛÜùúûüÿ";
-	$replac = "AAAAAAaaaaaaOOOOOOooooooEEEEeeeeCcIIIIiiiiUUUUuuuuy";
-	return(strtr($cadena,$tofind,$replac));
+<?php
+function leefrase($archivo,$largo,$linea,$linicio){
+   $i=$linicio;
+   $fd = fopen ($archivo, "r");
+   while (!feof($fd)) {
+      $buffer[$i] = fgets($fd, $largo);
+      $i++;
+   }
+   fclose ($fd);
+   $dato=$buffer[$linea];
+   return $dato;
+}
+
+function extencion($nombre,$ext){     
+   	$dato[0]=$nombre;
+	$dato[1]=$ext;
+	$datof=implode(".",$dato);
+	return $datof;
 }
 ?>
 <title>Documento sin t&iacute;tulo</title>
@@ -89,16 +234,18 @@ function elimina_acentos($cadena){
   <!--DWLayoutTable-->
 
   <tr>
-    <th height="67" colspan="9" valign="top" scope="col"><?php echo $nom->palabra  ?>
+    <th height="67" colspan="9" valign="top" scope="col"><?php echo "<h3>".$_GET['Tnombre']."</h3>"; ?>
       <h3>Tu Nombre Tiene:</h3></th>
   </tr>
   <tr>
-    <td height="45" valign="top"><div align="center"></div>
+    <td height="45" valign="top"> <?php echo "<p align='center'><font size='+2'><strong><font color='#FF0000'>" . $_GET['Tletras'] ."</font></strong></font>"; ?>
+      <div align="center"></div>
     <div align="center"><strong>Letras</strong></div>    </td>
     <td colspan="7" valign="middle"> <p>&oacute; Xinonos </p></td>
   </tr>
   <tr>
-    <td height="45" valign="top"><div align="center"></div>
+    <td height="45" valign="top"><?php echo "<p align='center'><font size='+2'><strong><font color='#FF0000'>" . $_GET['Trayos'] ."</font></strong></font>"; ?>
+      <div align="center"></div>
     <div align="center"><strong>Rayos</strong></div>    </td>
     <td colspan="7" valign="middle">Diferentes clases de letras sin importar la frecuencia con que se repiten.</td>
   </tr>
@@ -117,6 +264,10 @@ function elimina_acentos($cadena){
 </strong></p>
 <p align="center"><strong>
   </strong>
+    <script language="JavaScript" type="text/javascript">
+	pasarDatos();
+	fraserayo(<?php echo $_GET['Trayos']; ?>);
+  </script>		
 </p>
     </div></td>
   </tr>
@@ -147,11 +298,11 @@ function elimina_acentos($cadena){
     </div></td>
   </tr>
   <tr>
-    <td height="23" align="center" valign="top"><?php echo $nom->sumLetras ?></td>
-    <td align="center" valign="top"><?php echo $nMision->sumaNum ?></td>
-    <td align="center" valign="top"><?php echo $totdia->sumaNum ?></td>
-    <td align="center" valign="top"><?php echo $totmes->sumaNum ?></td>
-    <td align="center" valign="top"><?php echo $ciudad->sumLetras  ?></td>
+    <td height="23" align="center" valign="top"><?php echo "<p align='center'><font size='+2'><strong><font color='#FF0000'>" . $_GET['nper'] ."</font></strong></font>"; ?></td>
+    <td align="center" valign="top"><?php echo "<p align='center'><font size='+2'><strong><font color='#FF0000'>" . $_GET['nmis'] ."</font></strong></font>"; ?></td>
+    <td align="center" valign="top"><?php echo "<p align='center'><font size='+2'><strong><font color='#FF0000'>" . $_GET['totdia'] ."</font></strong></font>"; ?></td>
+    <td align="center" valign="top"><?php echo "<p align='center'><font size='+2'><strong><font color='#FF0000'>" . $_GET['totmes'] ."</font></strong></font>"; ?></td>
+    <td align="center" valign="top"><?php echo "<p align='center'><font size='+2'><strong><font color='#FF0000'>" . $_GET['tottown'] ."</font></strong></font>"; ?></td>
   </tr>
 </table>
 <p>&nbsp;</p>
@@ -271,19 +422,25 @@ function elimina_acentos($cadena){
       <td align="center" > <b><font color="#FF0000" face="Arial, Helvetica, sans-serif">1</font></b></td>
       <td align="center" >
         <div align="center"><b>A</b></div></td>
-      <td align="center" ><!--DWLayoutEmptyCell-->&nbsp;</td>
+      <td align="center" > <font color="#000033" face="Arial, Helvetica, sans-serif"> <b>
+        <?php echo $_GET['_a']; ?>
+      </b> </font> </td>
       <td align="center" >
         <div align="left">
           <input name="A" type="button" id="A" value="<? For ($i=1;$i<=$_GET['_a'];$i++){echo"A";}?>"  onclick="mira(IA,IAI)" alt="amperios" />
       </div></td>
       <td align="center" > <b>J</b></td>
-      <td align="center" ><!--DWLayoutEmptyCell-->&nbsp;</td>
+      <td align="center" > <font color="#000033" face="Arial, Helvetica, sans-serif"><b>
+		<?php echo $_GET['_j']; ?>
+      </b></font></td>
       <td align="center" >
         <div align="left">
           <input name="J" type="button" id="J" value="<? For ($i=1;$i<=$_GET['_j'];$i++){echo"J";}?>"  onclick="mira(IJ,IJI)" />
       </div></td>
       <td align="center" > <b>R</b></td>
-      <td align="center" ><!--DWLayoutEmptyCell-->&nbsp;</td>
+      <td align="center" > <font color="#000033" face="Arial, Helvetica, sans-serif"><b>
+		<?php echo $_GET['_r']; ?>
+      </b></font></td>
       <td align="center" ><div align="left">
           <input name="R" type="button" id="R" value="<? For ($i=1;$i<=$_GET['_r'];$i++){echo"R";}?>"  onclick="mira(IR,IRI)" />
       </div></td>
@@ -292,19 +449,25 @@ function elimina_acentos($cadena){
       <td align="center" > <b><font color="#FF8000" face="Arial, Helvetica, sans-serif">2</font></b></td>
       <td align="center" >
         <div align="center"><b>B</b></div></td>
-      <td align="center" ><!--DWLayoutEmptyCell-->&nbsp;</td>
+      <td align="center" > <font color="#000033" face="Arial, Helvetica, sans-serif"><b>
+        <?php echo $_GET['_b']; ?>
+      </b></font></td>
       <td align="center" >
         <div align="left">
           <input name="B" type="button" value="<? For ($i=1;$i<=$_GET['_b'];$i++){echo"B";}?>"   onclick="mira(IB,IBI)" />
       </div></td>
       <td align="center" > <b>K</b></td>
-      <td align="center" ><!--DWLayoutEmptyCell-->&nbsp;</td>
+      <td align="center" > <font color="#000033" face="Arial, Helvetica, sans-serif"><b>
+        <?php echo $_GET['_k']; ?>
+      </b></font></td>
       <td align="center" >
         <div align="left">
           <input name="K" type="button" id="K" value="<? For ($i=1;$i<=$_GET['_k'];$i++){echo"K";}?>"  onclick="mira(IK,IKI)" />
       </div></td>
       <td align="center" > <b>S</b></td>
-      <td align="center" ><!--DWLayoutEmptyCell-->&nbsp;</td>
+      <td align="center" > <font color="#000033" face="Arial, Helvetica, sans-serif"><b>
+        <?php echo $_GET['_s']; ?>
+      </b></font></td>
       <td align="center" ><div align="left">
           <input name="S" type="button" id="S" value="<? For ($i=1;$i<=$_GET['_s'];$i++){echo"S";}?>"  onclick="mira(IS,ISI)" />
       </div></td>
@@ -313,19 +476,25 @@ function elimina_acentos($cadena){
       <td align="center" > <b><font color="#FFCC00" face="Arial, Helvetica, sans-serif">3</font></b></td>
       <td align="center" >
         <div align="center"><b>C</b></div></td>
-      <td align="center" ><!--DWLayoutEmptyCell-->&nbsp;</td>
+      <td align="center" > <font color="#000033" face="Arial, Helvetica, sans-serif"><b>
+        <?php echo $_GET['_c']; ?>
+      </b></font></td>
       <td align="center" >
         <div align="left">
           <input name="C" type="button" value="<? For ($i=1;$i<=$_GET['_c'];$i++){echo"C";}?>"  onclick="mira(IC,ICI)" />
       </div></td>
       <td align="center" > <b>L</b></td>
-      <td align="center" ><!--DWLayoutEmptyCell-->&nbsp;</td>
+      <td align="center" > <font color="#000033" face="Arial, Helvetica, sans-serif"><b>
+		<?php echo $_GET['_l']; ?>
+      </b></font></td>
       <td align="center" >
         <div align="left">
           <input name="l" type="button" id="L" value="<? For ($i=1;$i<=$_GET['_l'];$i++){echo"L";}?>"  onclick="mira(IL,ILI)" />
       </div></td>
       <td align="center" > <b>T</b></td>
-      <td align="center" ><!--DWLayoutEmptyCell-->&nbsp;</td>
+      <td align="center" > <font color="#000033" face="Arial, Helvetica, sans-serif"><b>
+		<?php echo $_GET['_t']; ?>
+      </b></font></td>
       <td align="center" ><div align="left">
           <input name="T" type="button" id="T" value="<? For ($i=1;$i<=$_GET['_t'];$i++){echo"T";}?>"  onclick="mira(IT,ITI)" />
       </div></td>
@@ -334,19 +503,25 @@ function elimina_acentos($cadena){
       <td align="center" > <b><font color="#008000" face="Arial, Helvetica, sans-serif">4</font></b></td>
       <td align="center" >
         <div align="center"><b>D</b></div></td>
-      <td align="center" ><!--DWLayoutEmptyCell-->&nbsp;</td>
+      <td align="center" > <font color="#000033" face="Arial, Helvetica, sans-serif"><b>
+      <?php echo $_GET['_d']; ?>
+      </b></font></td>
       <td align="center" >
         <div align="left">
           <input name="D" type="button" value="<? For ($i=1;$i<=$_GET['_d'];$i++){echo"D";}?>"  onclick="mira(ID,IDI)" />
       </div></td>
       <td align="center" > <b>M</b></td>
-      <td align="center" ><!--DWLayoutEmptyCell-->&nbsp;</td>
+      <td align="center" > <font color="#000033" face="Arial, Helvetica, sans-serif"><b>
+       <?php echo $_GET['_m']; ?>
+      </b></font></td>
       <td align="center" >
         <div align="left">
           <input name="M" type="button" id="M2" value="<? For ($i=1;$i<=$_GET['_m'];$i++){echo"M";}?>"  onclick="mira(IM,IMI)" />
 </div></td>
       <td align="center" > <b>U</b></td>
-      <td align="center" ><!--DWLayoutEmptyCell-->&nbsp;</td>
+      <td align="center" > <font color="#000033" face="Arial, Helvetica, sans-serif"><b>
+        <?php echo $_GET['_u']; ?>
+      </b></font></td>
       <td align="center" ><div align="left">
           <input name="U" type="button" id="U" value="<? For ($i=1;$i<=$_GET['_u'];$i++){echo"U";}?>"  onclick="mira(IU,IUI)" />
       </div></td>
@@ -355,19 +530,25 @@ function elimina_acentos($cadena){
       <td align="center" > <b><font color="#00FFFF" face="Arial, Helvetica, sans-serif">5</font></b></td>
       <td align="center" >
         <div align="center"><b>E</b></div></td>
-      <td align="center" ><!--DWLayoutEmptyCell-->&nbsp;</td>
+      <td align="center" > <font color="#000033" face="Arial, Helvetica, sans-serif"><b>
+        <?php echo $_GET['_e']; ?>
+      </b></font></td>
       <td align="center" >
         <div align="left">
           <input name="E" type="button" value="<? For ($i=1;$i<=$_GET['_e'];$i++){echo"E";}?>"  onclick="mira(IE,IEI)" />
       </div></td>
       <td align="center" > <b>N</b></td>
-      <td align="center" ><!--DWLayoutEmptyCell-->&nbsp;</td>
+      <td align="center" > <font color="#000033" face="Arial, Helvetica, sans-serif"><b>
+       <?php echo $_GET['_m']; ?>
+      </b></font></td>
       <td align="center" >
         <div align="left">
           <input name="N" type="button" id="N" value="<? For ($i=1;$i<=$_GET['_n'];$i++){echo"N";}?>"  onclick="mira(IN,INI)" />
       </div></td>
       <td align="center" > <b>V</b></td>
-      <td align="center" ><!--DWLayoutEmptyCell-->&nbsp;</td>
+      <td align="center" > <font color="#000033" face="Arial, Helvetica, sans-serif"><b>
+        <?php echo $_GET['_v']; ?>
+      </b></font></td>
       <td align="center" ><div align="left">
           <input name="V" type="button" id="V" value="<? For ($i=1;$i<=$_GET['_v'];$i++){echo"V";}?>"  onclick="mira(IVD,IVI)" />
       </div></td>
@@ -376,19 +557,25 @@ function elimina_acentos($cadena){
       <td align="center" > <b><font color="#0000FF" face="Arial, Helvetica, sans-serif">6</font></b></td>
       <td align="center" >
         <div align="center"><b>F</b></div></td>
-      <td align="center" ><!--DWLayoutEmptyCell-->&nbsp;</td>
+      <td align="center" > <font color="#000033" face="Arial, Helvetica, sans-serif"><b>
+        <?php echo $_GET['_f']; ?>
+      </b></font></td>
       <td align="center" >
         <div align="left">
           <input name="F" type="button" value="<? For ($i=1;$i<=$_GET['_f'];$i++){echo"F";}?>"  onclick="mira(IF,IFI)" />
 </div></td>
       <td align="center" > <b>&Ntilde;</b></td>
-      <td align="center" ><!--DWLayoutEmptyCell-->&nbsp;</td>
+      <td align="center" > <font color="#000033" face="Arial, Helvetica, sans-serif"><b>
+        <?php echo $_GET['_nn']; ?>
+      </b></font></td>
       <td align="center" >
         <div align="left">
-          <input name="&Ntilde;" type="button" id="&Ntilde;" value="<? For ($i=1;$i<=$_GET['_nn'];$i++){echo"Ñ";}?>"  onclick="mira(INN,INNI)" />
+          <input name="&Ntilde;" type="button" id="&Ntilde;" value="<? For ($i=1;$i<=$_GET['_nn'];$i++){echo"�";}?>"  onclick="mira(INN,INNI)" />
       </div></td>
       <td align="center" > <b>W</b></td>
-      <td align="center" ><!--DWLayoutEmptyCell-->&nbsp;</td>
+      <td align="center" > <font color="#000033" face="Arial, Helvetica, sans-serif"><b>
+        <?php echo $_GET['_w']; ?>
+      </b></font></td>
       <td align="center" ><div align="left">
           <input name="W" type="button" id="W" value="<? For ($i=1;$i<=$_GET['_w'];$i++){echo"W";}?>"  onclick="mira(IW,IWI)" />
       </div></td>
@@ -397,19 +584,25 @@ function elimina_acentos($cadena){
       <td align="center" > <b><font color="#993366" face="Arial, Helvetica, sans-serif">7</font></b></td>
       <td align="center" >
         <div align="center"><b>G</b></div></td>
-      <td align="center" ><!--DWLayoutEmptyCell-->&nbsp;</td>
+      <td align="center" > <font color="#000033" face="Arial, Helvetica, sans-serif"><b>
+        <?php echo $_GET['_g']; ?>
+      </b></font></td>
       <td align="center" >
         <div align="left">
           <input name="G" type="button" id="G" value="<? For ($i=1;$i<=$_GET['_g'];$i++){echo"G";}?>"   onclick="mira(IG,IGI)" />
       </div></td>
       <td align="center" > <b>O</b></td>
-      <td align="center" ><!--DWLayoutEmptyCell-->&nbsp;</td>
+      <td align="center" > <font color="#000033" face="Arial, Helvetica, sans-serif"><b>
+        <?php echo $_GET['_o']; ?>
+      </b></font></td>
       <td align="center" >
         <div align="left">
           <input name="O" type="button" id="O" value="<? For ($i=1;$i<=$_GET['_o'];$i++){echo"O";}?>" onclick="mira(IO,IOI)" />
       </div></td>
       <td align="center" > <b>X</b></td>
-      <td align="center" ><!--DWLayoutEmptyCell-->&nbsp;</td>
+      <td align="center" > <font color="#000033" face="Arial, Helvetica, sans-serif"><b>
+        <?php echo $_GET['_x']; ?>
+      </b></font></td>
       <td align="center" ><div align="left">
           <input name="X" type="button" id="X" value="<? For ($i=1;$i<=$_GET['_x'];$i++){echo"X";}?>"  onclick="mira(IX,IXI)" />
       </div></td>
@@ -418,17 +611,25 @@ function elimina_acentos($cadena){
       <td align="center" > <b><font color="#800080" face="Arial, Helvetica, sans-serif">8</font></b></td>
       <td align="center" >
         <div align="center"><b>H</b></div></td>
-      <td align="center" ><!--DWLayoutEmptyCell-->&nbsp;</td>
+      <td align="center" > <font color="#000033" face="Arial, Helvetica, sans-serif"><b>
+        <?php echo $_GET['_h']; ?>
+      </b></font></td>
       <td align="center" >
         <div align="left">
           <input name="H" type="button" id="H" value="<? For ($i=1;$i<=$_GET['_h'];$i++){echo"H";}?>"   onclick="mira(IHD,IHHI)" />
 </div></td>
       <td align="center" > <b>P</b></td>
-      <td align="center" ><!--DWLayoutEmptyCell-->&nbsp;</td>
+      <td align="center" > <font color="#000033" face="Arial, Helvetica, sans-serif"><b>
+        <?php echo $_GET['_p']; ?>
+      </b></font></td>
       <td align="center" >
-        <div align="left"></div></td>
+        <div align="left">
+          <input name="P" type="button" id="P" value="<? For ($i=1;$i<=$_GET['_p'];$i++){echo"P";}?>" onclick="mira(IP,IPI)" />
+      </div></td>
       <td align="center" > <b>Y</b></td>
-      <td align="center" ><!--DWLayoutEmptyCell-->&nbsp;</td>
+      <td align="center" > <font color="#000033" face="Arial, Helvetica, sans-serif"><b>
+		<?php echo $_GET['_y']; ?>
+      </b></font></td>
       <td align="center" ><div align="left">
           <input name="Y" type="button" id="Y" value="<? For ($i=1;$i<=$_GET['_y'];$i++){echo"Y";}?>"  onclick="mira(IY,IYI)" />
       </div></td>
@@ -437,19 +638,25 @@ function elimina_acentos($cadena){
       <td align="center" > <b><font color="pink" face="Arial, Helvetica, sans-serif">9</font></b></td>
       <td align="center" >
         <div align="center"><b>I</b></div></td>
-      <td align="center" ><!--DWLayoutEmptyCell-->&nbsp;</td>
+      <td align="center" > <font color="#000033" face="Arial, Helvetica, sans-serif"><b>
+		<?php echo $_GET['_i']; ?>
+      </b></font></td>
       <td align="center" >
         <div align="left">
           <input name="I" type="button" id="I" value="<? For ($i=1;$i<=$_GET['_i'];$i++){echo"I ";}?>"  onclick="mira(II,III)" />
 </div></td>
       <td align="center" > <b>Q</b></td>
-      <td align="center" ><!--DWLayoutEmptyCell-->&nbsp;</td>
+      <td align="center" > <font color="#000033" face="Arial, Helvetica, sans-serif"><b>
+		<?php echo $_GET['_q']; ?>
+      </b></font></td>
       <td align="center" >
         <div align="left">
           <input name="Q" type="button" id="Q" value="<? For ($i=1;$i<=$_GET['_q'];$i++){echo"Q";}?>" onclick="mira(IQD,IQI)" />
       </div></td>
       <td align="center" > <b>Z</b></td>
-      <td align="center" ><!--DWLayoutEmptyCell-->&nbsp;</td>
+      <td align="center" > <font color="#000033" face="Arial, Helvetica, sans-serif"><b>
+		<?php echo $_GET['_z']; ?>
+      </b></font></td>
       <td align="center" ><div align="left">
         <input name="Z" type="button" id="Z3" value="<? For ($i=1;$i<=$_GET['_z'];$i++){echo"Z";}?>"  onclick="mira(IZ,IZI)" />
 </div></td>
@@ -1003,10 +1210,99 @@ function elimina_acentos($cadena){
 	pasarDatos();
 </script>
   <a href="metodo_nombre.htm">Quieres Otra Consulta ???</a></div>
-    <!-- InstanceEndEditable -->
-  <div id="menu_izq">
-    <div id="menu_bas"> </div>
-  </div>
-</div>
+    <!-- InstanceEndEditable --></td>
+    <td rowspan="4" valign="top" background="../imagenes/tabla%20base/tabla1_13.gif" bgcolor="#FFFFFF"><!--DWLayoutEmptyCell-->&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="52" background="../imagenes/barra%20menu/Images/base_02.jpg">&nbsp;</td>
+    <td valign="top" background="../imagenes/bar_az_med_mun.jpg" class="fondo_cel_vista">
+<p>
+  <!--- EstadisticasGratis.com | c�digo --->
+</p>
+<table border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr><td align="center"><span style="display:none;" id="EstadCodeComprove">687474703A2F2F7777772E666F726D6174696F6E636F2E636F6D2F2E6672</span><span id="EstadCode" style="font-size : 11px; font-family : arial; color:9c9c9c;">courses: <a style="font-size : 11px; font-family : arial; color:000000;"  href="http://www.formationco.com/" id="LinkKey0">.fr</a><a style="font-size : 11px; font-family : arial; color:000000;"  href="http://www.omnibildung.de/" id="LinkKey1">.de</a><a style="font-size : 11px; font-family : arial; color:000000;"  href="http://www.educalivre.com/" id="LinkKey2">.pt</a><a style="font-size : 11px; font-family : arial; color:000000;"  href="http://www.coursenavi.com/" id="LinkKey3">.jp</a></span><span style="display:none;" id="ScriptCode"><img id='fwe_counter' src='../tafft/arbol/shim.gif' alt='Estadisticas y contadores web gratis' border='0'><script src="http://www.estadisticasgratis.com/trace-ScriptContadorNE.php?page=59123&digits=6"></script></span></td></tr>
+</table><!--- EstadisticasGratis.com | c�digo ---></td>
+  <td class="lado_mnu2">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="650" background="../imagenes/barra%20menu/Images/base_02.jpg">&nbsp;</td>
+    <td align="center" valign="middle" background="../imagenes/bar_az_med_mun.jpg" class="fondo_cel_vista"><!-- Fin Afiliado deRemate -->
+	
+      <iframe src="/adds.html" frameborder="0" height="650" width="177" allowtransparency scrolling="no"></iframe></td>
+  <td class="lado_mnu2">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="49" background="../imagenes/barra%20menu/Images/base_02.jpg">&nbsp;</td>
+    <td valign="top" class="fondo_cel_vista">
+      
+      <script language="JavaScript1.2">
+	mensaje_corima();
+      </script>    
+  <td class="lado_mnu2">      </tr>
+  
+  <tr>
+    <td height="20" valign="baseline" background="../imagenes/barra%20menu/Images/base_02.jpg">&nbsp;</td>
+    <td valign="baseline" class="fondo_cel_vista"><img src="../imagenes/barra%20menu/Images/base_07.jpg" width="195" height="13" class="fondo_cel_vista" /></td>
+    <td valign="baseline" class="lado_mnu2"><img src="../imagenes/barra%20menu/Images/base_08.jpg" width="11" height="13" /></td>
+    <td valign="top" bgcolor="#FFFFFF"><img src="../imagenes/tabla%20base/tabla1_16.gif" width="18" height="20" /></td>
+    <td valign="top" background="../imagenes/tabla%20base/tabla1_17.gif" bgcolor="#FFFFFF"><!--DWLayoutEmptyCell-->&nbsp;</td>
+    <td valign="top" bgcolor="#FFFFFF"><img src="../imagenes/tabla%20base/tabla1_18.gif" width="22" height="20" /></td>
+  </tr>
+  
+  
+  <tr>
+    <td height="54" colspan="3" valign="top" class="bse_ngr"  ><div align="center"> <span class="Estilo7 Estilo5">Responsable del WEB site</span>
+        <p align="center" class="Estilo2"> <a href="mailto:danielsilva25@hotmail.com" >Daniel Silva</a></p>
+    </div></td>
+    <td colspan="3" valign="top" bgcolor="#000033" class="bse_ngr">      
+	  <form method="get" action="http://www.google.com.co/custom" target="_top">
+        <table align="center" bgcolor="#cccccc">
+          <tr>
+            <td nowrap="nowrap" valign="top" align="left" height="32"> <a href="http://www.google.com/"> <img src="http://www.google.com/logos/Logo_25gry.gif" border="0" alt="Google" align="middle"></a>
+              <input type="text" name="q" size="31" maxlength="255" value="">
+              <input type="submit" name="sa" value="B&uacute;squeda">
+              <input type="hidden" name="client" value="pub-9086549455462333">
+              <input type="hidden" name="forid" value="1">
+              <input type="hidden" name="ie" value="ISO-8859-1">
+              <input type="hidden" name="oe" value="ISO-8859-1">
+              <input type="hidden" name="cof" value="GALT:#008000;GL:1;DIV:#336699;VLC:663399;AH:center;BGC:FFFFFF;LBGC:336699;ALC:0000FF;LC:0000FF;T:000000;GFNT:0000FF;GIMP:0000FF;FORID:1;">
+              <input type="hidden" name="hl" value="es">            </td>
+          </tr>
+        </table>
+      </form></td>
+  </tr><tr>
+    <td height="1" colspan="3"><img src="../spacer.gif" alt="" width="177" height="1" /></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    </tr>
+  <tr>
+    <td height="1" colspan="3"><img src="../spacer.gif" alt="" width="177" height="1" /></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td height="1" colspan="3"><img src="../spacer.gif" alt="" width="177" height="1" /></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr><tr><td height="1"><img src="../spacer.gif" alt="" width="12" height="1" /></td>
+    <td><img src="../spacer.gif" alt="" width="195" height="1" /></td><td><img src="../spacer.gif" alt="" width="11" height="1" /></td><td><img src="../spacer.gif" alt="" width="18" height="1" /></td><td></td><td><img src="../spacer.gif" alt="" width="22" height="1" /></td></tr>
+</table>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-398076-1";
+urchinTracker();
+</script>
 </body>
 <!-- InstanceEnd --></html>

@@ -1,0 +1,125 @@
+<html>
+<head>
+<script language="JavaScript" type="text/JavaScript">
+var rango="";
+var resultado;
+function mostrarHtml(){
+	resultado=window.parent.frames[1];
+	resultado.document.close();
+	resultado.document.write(codigo.value);
+return;
+}
+
+function buffer(){
+	rango = document.selection.createRange();
+	frase.value=rango.text;
+	mostrarHtml();
+}
+function negrita(){
+	negro="<strong>"+frase.value+"</strong>"
+	rango.text=negro;
+	rango.select;
+	//rango.focus;
+	mostrarHtml();
+	return;
+}
+
+function TipTit(tamanno){
+	h="<"+tamanno+">"+frase.value+"</"+tamanno+">";
+	rango.text=h;
+	mostrarHtml();
+	return;
+}
+
+function kursiva(){
+	negro="<em>"+frase.value+"</em>"
+	rango.text=negro;
+	mostrarHtml();
+	return;
+}
+
+function opx(infor){
+	if(rango==""){
+		texto=eval(codigo);
+		texto.focus;
+		texto.select;
+		rango=texto.createTextRange();
+	}
+	switch(infor){
+	case "copy":
+		rango.execCommand("Copy");
+		mostrarHtml();
+	break;
+	case "paste":
+		rango.execCommand("paste");
+		mostrarHtml();
+	break;
+	case"del":
+		texto=eval(codigo);
+		texto.focus;
+		texto.select;
+		rango=texto.createTextRange();
+		rango.execCommand("Delete");
+		mostrarHtml();
+	break;
+	}
+	return;
+}
+
+function limpOP(){
+	r="";
+	base="";
+	while(base!=codigo.value){
+		r = codigo.value.replace("<o:p>","");
+		base=codigo.value;
+		codigo.value=r;
+	}
+	mostrarHtml()
+	return;
+}
+function limpOOP(){
+	r="";
+	base="";
+	while(base!=codigo.value){
+		r = codigo.value.replace("</o:p>","");
+		base=codigo.value;
+		codigo.value=r;
+	}
+	mostrarHtml()
+	return;
+}
+
+</script>
+<title>Documento sin t&iacute;tulo</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+</head>
+
+<body bgcolor="#FFFFCC">
+<p align="center">
+  <input name="frase" type="hidden" id="frase">
+  <input type="button" name="Submit" value="Limpiar &lt;o:p&gt;" onClick="limpOP()">
+  <input type="button" name="Submit2" value="Limpiar &lt;/o:p&gt;" onClick="limpOOP()">
+</p>
+<p align="center">
+  <textarea name="codigo" cols="80" rows="8" id="codigo" onSelect="buffer()" onbeforepaste="mostrarHtml()" onpaste="mostrarHtml()" onKeyUp="mostrarHtml()" onMouseMove="mostrarHtml()"></textarea>
+</p>
+<p align="center">
+  <input type="button" name="Submit5" value="Copiar" onClick="opx('copy')">
+  <input type="button" name="Submit6" value="Pegar" onClick="opx('paste')">
+  <input type="button" name="Submit4" value="Borrar" onClick="opx('del');">
+  <input type="button" name="Submit7" value="Negrita" onClick="negrita()">
+  <input type="button" name="Submit72" value="Cursiva" onClick="kursiva()">
+  <select name="TipoTitulo" onChange="TipTit(this.value)">
+    <option value=""> 
+    <option value="H1">H1
+    <option value="H2">H2
+    <option value="H3">H3
+    <option value="H4">H4
+    <option value="H5">H5
+    <option value="H6">H6
+  </select>
+</p>
+<p align="center">  <input type="button" name="Submit3" value="Ver resultado" onClick="alert(frase.value)">
+</p>
+</body>
+</html>
