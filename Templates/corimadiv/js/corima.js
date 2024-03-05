@@ -52,51 +52,34 @@ cadena+='</ul>';
 cadena+='<br />';
 cadena+='<ul>';
 cadena+='  <li><a href=\"../cjesus/cjesus.htm\">Consulta a Jes&uacute;s</a></li>';
-cadena+='  <li><a href=\"../fcol/fcol.htm\">F&aacute;bulas de Colombia</a></li>';
-cadena+='  <li><a href=\"../tneyr/nombre.html\">Metodo Corima</a></li>';
-cadena+='  <li><a href=\"../taff/arbol.html\">Arbol</a></li>';
-cadena+='  <li><a href=\"../taff/florero.html\">Flor</a></li>';
-cadena+='  <li><a href=\"../taff/fruto.html\">Fruto</a></li>';
-cadena+='  <li><a href=\"../ep/ep.html\" >Estrellas Peque&ntilde;as</a></li>';
-cadena+='  <li><a href=\"../ntradame/ntradame-INTRO.html\">Nostradamus</a></li>';
-cadena+='  <li><a href=\"../rsol/la_ruta_del_sol.html\">La Ruta del Sol</a></li>';
-cadena+='  <li><a href=\"../fcor/fcor.html\">Fabula de Corima</a></li>';
-cadena+='  <li><a href=\"../pys/pys.html\">Productos y Servicios</a></li>';
-cadena+='  <li><a href=\"../mc/mc.html\">Mensajeros Celestiales</a></li>';
-cadena+='  <li><a href=\"../ludo/">Juguemos</a></li>';
-cadena+='  <li><a href=\"../articulos/Articulos.html\">Articulos</a></li>';
-cadena+='  <li><a href=\"http://groups.msn.com/estrellashumanas\">Estrellas Humanas</a></li>';/*
-cadena+='  <li><a href=\"../tools/tools.html\">Herramientas</a></li>';*/
+cadena+='  <li><a href=\"../fcol/fcol.htm\">F&aacute;bulas de Colombia</a></li>';/*
+cadena+='  <li><a href=\"../tneyr/nombre.htm\">Metodo Corima</a></li>';
+cadena+='  <li><a href=\"../tafft/arbol.htm\">Arbol</a></li>';
+cadena+='  <li><a href=\"../tafft/florero.htm\">Flor</a></li>';
+cadena+='  <li><a href=\"../tafft/fruto.htm\">Fruto</a></li>';
+cadena+='  <li><a href=\"../ep/ep.htm\" >Estrellas Peque&ntilde;as</a></li>';
+cadena+='  <li><a href=\"../ntradame/ntradame-INTRO.htm\">Nostradamus</a></li>';
+cadena+='  <li><a href=\"../rsol/la_ruta_del_sol.htm\">La Ruta del Sol</a></li>';
+cadena+='  <li><a href=\"../fcor/fcor.htm\">Fabula de Corima</a></li>';
+cadena+='  <li><a href=\"../pys/pys.htm\">Productos y Servicios</a></li>';
+cadena+='  <li><a href=\"../mc/mc.htm\">Mensajeros Celestiales</a></li>';
+cadena+='  <li><a href=\"../ludo/jugar.htm\">Juguemos</a></li>';
+cadena+='  <li><a href=\"../articulos/Articulos.htm\">Articulos</a></li>';
+cadena+='  <li><a href=\"http://groups.msn.com/estrellashumanas\">Estrellas Humanas</a></li>';
+cadena+='  <li><a href=\"../tools/tools.htm\">Herramientas</a></li>';
 cadena+='  <li><a href=\"../plantasM/plantasm.html\">Plantas Milagrosas </a></li>';
-cadena+='  <li><a href=\"../adfechas/adfechas.html\">Adorables Fechas </a></li>';
+cadena+='  <li><a href=\"../newcorima/adfechas/adfechas.html\">Adorables Fechas </a></li>';
 cadena+='  <li><a href=\"../videos/videos.html\">Videos</a></li>';
 cadena+='</ul>';
 cadena+='<br />';
 cadena+='<ul>';
 cadena+='  <li><a href=\"mailto:corima937@hotmail.com\">Escribele a Corima</a></li>';
-cadena+='  <li><a href=\"http://corimatecuenta.blogspot.com/\">Lee mi blog</a></li>';
+cadena+='  <li><a href=\"http://corimatecuenta.blogspot.com/\">Lee mi blog</a></li>';*/
 cadena+='</ul>';
 	document.getElementById('menu_bas').innerHTML=cadena;	
 }
 //-------------------------------------------------------------------------------
 
-//-------------------------------juegos--------------------------------------------
-//---------------------------amo el amazonas---------------------------------------
-function imprimir_var(){
-	window.open("print_ama.html"+document.location.search);
-	return;
-}
-//----------------------------------------------------------------------------------
-
-//---------------------------------------nostradamus--------------------------------
-function ntradame(){
-	ntradame_Imagenes=CnstryMatrx("../imagenes/ntradame/ntrdm",36,".gif");
-	for(i=1;i<=22;i++){
-		LanzaCarta('ntradame'+i,ntradame_Imagenes);
-	}
-}
-
-//----------------------------------------------------------------------------------
 function diasx(){
 	resultado.value=restaFecha(dIni.value,mIni.value,aIni.value,dFin.value,mFin.value,aFin.value);
 	numer='t'+nueve.value;
@@ -1309,6 +1292,3 @@ function xgrama(codigo){
 		return ""
 		}
 	}
-window.onload=function(){
-	carga_menu();
-}

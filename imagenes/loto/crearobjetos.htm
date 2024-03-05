@@ -1,0 +1,49 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<script language="javascript" type="text/javascript">
+function casa(localidad,superficie,precio){ 
+
+this.localidad=localidad 
+
+this.superficie=superficie 
+
+this.precio=precio 
+
+this.VerCasa=VerCasa
+} 
+
+
+casa1=new casa("Pamplona",90,15000000) 
+
+casa2=new casa("Bilbao",110,23000000) 
+
+function VerCasa(){ 
+
+var mostrar="La casa está en " + this.localidad + ", tiene " + this.superficie +" m2 y cuesta " +this.precio +" pesos." 
+
+
+return(mostrar) 
+
+} 
+
+
+</script>
+<title>Documento sin t&iacute;tulo</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+</head>
+
+<body>
+<p>&nbsp;</p>
+<h1>hola ve estas casas:</h1>
+
+<script language="javascript" type="text/javascript">
+	document.write(casa2.VerCasa());
+	casa.prototype.año=null;
+	casa2.año=1956;
+	document.write(casa2.año);
+</script> 
+
+</body>
+</html>

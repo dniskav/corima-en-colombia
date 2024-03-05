@@ -47,7 +47,6 @@ div#menu_izq {
 	margin-left: 0px;
 	padding-top: 10px;
 	padding-bottom: 10px;
-	background-color: #0099FF;
 }
 div#contenido {
 	color: #333;
@@ -175,50 +174,4 @@ div#mensaje {
 }
 .tabla_base td {
 	border: thin solid #F0F0F0;
-}
-.tabla_base_cyan {
-	background-color: #FFFFFF;
-	border-top-width: thin;
-	border-right-width: thin;
-	border-bottom-width: thin;
-	border-left-width: thin;
-	border-right-style: solid;
-	border-bottom-style: solid;
-	border-left-style: solid;
-	border-top-color: #D9ECFF;
-	border-right-color: #D9ECFF;
-	border-bottom-color: #D9ECFF;
-	border-left-color: #D9ECFF;
-	border-Collapse: collapse;
-	color: #0068A6;
-}
-.tabla_base_cyan caption {
-	background-color: #D9ECFF;
-	color: #2C2C2C;
-}
-.tabla_base_cyan td {
-	border: thin solid #D9ECFF;
-}
-.tabla_base_warm {
-	background-color: #FFFFFF;
-	border-top-width: thin;
-	border-right-width: thin;
-	border-bottom-width: thin;
-	border-left-width: thin;
-	border-right-style: solid;
-	border-bottom-style: solid;
-	border-left-style: solid;
-	border-top-color: #FED2AB;
-	border-right-color: #FED2AB;
-	border-bottom-color: #FED2AB;
-	border-left-color: #FED2AB;
-	border-Collapse: collapse;
-	color: #9D4B02;
-}
-.tabla_base_warm caption {
-	background-color: #FED2AB;
-	color: #2C2C2C;
-}
-.tabla_base_warm td {
-	border: thin solid #FED2AB;
 }
