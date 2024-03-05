@@ -1,4 +1,4 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!DOCTYPE html>
 <html>
 <head>
 
@@ -43,7 +43,7 @@
       <embed src="../imagenes/corimita.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="116" height="169" ></embed>
     </object></td>
     <td colspan="2" valign="top" background="../imagenes/titulo/Images/titulo-corima_06.jpg" bgcolor="#FFFFFF"><!--DWLayoutEmptyCell-->&nbsp;</td>
-    <td width="553" align="center" valign="top" background="../imagenes/titulo/Images/titulo-corima_06.jpg" bgcolor="#FFFFFF"><div><a href="../index.htm"><img src="../imagenes/titulo-corima.jpg" alt="logo" width="547" height="126" border="0" align="middle" /></a></div>      <p align="center"><a href="../index.htm"></a>
+    <td width="553" align="center" valign="top" background="../imagenes/titulo/Images/titulo-corima_06.jpg" bgcolor="#FFFFFF"><div><a href="../index.html"><img src="../imagenes/titulo-corima.jpg" alt="logo" width="547" height="126" border="0" align="middle" /></a></div>      <p align="center"><a href="../index.html"></a>
         <iframe src="/iplocator.php" frameborder="0" height="33" width="411" allowtransparency="allowtransparency" scrolling="No"></iframe>
     </p></td>
     <td width="32" valign="top" bgcolor="#FFFFFF"><img src="../imagenes/tit_dr.gif" width="15" height="180" /></td>
@@ -79,48 +79,48 @@
           <td width="175" height="347"><table width="170" border="0" align="center" cellpadding="0" cellspacing="0">
             <!--DWLayoutTable-->
             <tr>
-              <td colspan="3" class="Estilo8" onmouseover="this.background='../imagenes/btn_mnu_ov.jpg'" onmouseout="this.background=''" onmousedown="this.background='../imagenes/btn_mnu_press.jpg'; cj.click()"><a href="../cjesus/cjesus.htm" class="Estilo1 Estilo1 Estilo3" id="cj">Consulta a Jes&uacute;s</a></td>
+              <td colspan="3" class="Estilo8" onmouseover="this.background='../imagenes/btn_mnu_ov.jpg'" onmouseout="this.background=''" onmousedown="this.background='../imagenes/btn_mnu_press.jpg'; cj.click()"><a href="../cjesus/cjesus.html" class="Estilo1 Estilo1 Estilo3" id="cj">Consulta a Jes&uacute;s</a></td>
             </tr>
             <tr>
-              <td colspan="3" class="Estilo8" onmouseover="this.background='../imagenes/btn_mnu_ov.jpg'" onmouseout="this.background=''" onmousedown="this.background='../imagenes/btn_mnu_press.jpg'; fcol.click()" ><a href="../fcol/fcol.htm" class="Estilo3 Estilo1 Estilo1" id="fcol">F&aacute;bulas de Colombia</a></td>
+              <td colspan="3" class="Estilo8" onmouseover="this.background='../imagenes/btn_mnu_ov.jpg'" onmouseout="this.background=''" onmousedown="this.background='../imagenes/btn_mnu_press.jpg'; fcol.click()" ><a href="../fcol/fcol.html" class="Estilo3 Estilo1 Estilo1" id="fcol">F&aacute;bulas de Colombia</a></td>
             </tr>
             <tr>
-              <td colspan="3" class="Estilo8"  onmouseover="this.background='../imagenes/btn_mnu_ov.jpg'" onmouseout="this.background=''" onmousedown="this.background='../imagenes/btn_mnu_press.jpg'; metcor.click()"><a href="../tneyr/nombre.htm" class="Estilo3 Estilo1 Estilo1" id="metcor">Metodo Corima</a> </td>
+              <td colspan="3" class="Estilo8"  onmouseover="this.background='../imagenes/btn_mnu_ov.jpg'" onmouseout="this.background=''" onmousedown="this.background='../imagenes/btn_mnu_press.jpg'; metcor.click()"><a href="../tneyr/nombre.html" class="Estilo3 Estilo1 Estilo1" id="metcor">Metodo Corima</a> </td>
             </tr>
             <tr>
-              <td width="48" valign="top" class="Estilo8" onmouseover="this.background='../imagenes/btn_mnu_ov.jpg'" onmouseout="this.background=''" onmousedown="this.background='../imagenes/btn_mnu_press.jpg'; M_arbol.click()"><a href="../tafft/arbol.htm" class="Estilo3 Estilo1 Estilo1" id="M_arbol">Arbol</a></td>
-              <td width="34" valign="top" class="Estilo8" onmouseover="this.background='../imagenes/btn_mnu_ov.jpg'" onmouseout="this.background=''" onmousedown="this.background='../imagenes/btn_mnu_press.jpg'; M_flor.click()"><a href="../tafft/florero.htm" class="Estilo4"  id="M_flor" >Flor</a></td>
-              <td width="45" valign="top" class="Estilo8" onmouseover="this.background='../imagenes/btn_mnu_ov.jpg'" onmouseout="this.background=''" onmousedown="this.background='../imagenes/btn_mnu_press.jpg'; M_fruto.click()"><a href="../tafft/fruto.htm"  class="Estilo4" id="M_fruto">Fruto</a></td>
+              <td width="48" valign="top" class="Estilo8" onmouseover="this.background='../imagenes/btn_mnu_ov.jpg'" onmouseout="this.background=''" onmousedown="this.background='../imagenes/btn_mnu_press.jpg'; M_arbol.click()"><a href="../tafft/arbol.html" class="Estilo3 Estilo1 Estilo1" id="M_arbol">Arbol</a></td>
+              <td width="34" valign="top" class="Estilo8" onmouseover="this.background='../imagenes/btn_mnu_ov.jpg'" onmouseout="this.background=''" onmousedown="this.background='../imagenes/btn_mnu_press.jpg'; M_flor.click()"><a href="../tafft/florero.html" class="Estilo4"  id="M_flor" >Flor</a></td>
+              <td width="45" valign="top" class="Estilo8" onmouseover="this.background='../imagenes/btn_mnu_ov.jpg'" onmouseout="this.background=''" onmousedown="this.background='../imagenes/btn_mnu_press.jpg'; M_fruto.click()"><a href="../tafft/fruto.html"  class="Estilo4" id="M_fruto">Fruto</a></td>
             </tr>
             <tr>
-              <td colspan="3" class="Estilo8" onmouseover="this.background='../imagenes/btn_mnu_ov.jpg'" onmouseout="this.background=''" onmousedown="this.background='../imagenes/btn_mnu_press.jpg'; M_ep.click()"><a href="../ep/ep.htm" class="Estilo3 Estilo1 Estilo1"  id="M_ep">Estrellas Peque&ntilde;as</a></td>
+              <td colspan="3" class="Estilo8" onmouseover="this.background='../imagenes/btn_mnu_ov.jpg'" onmouseout="this.background=''" onmousedown="this.background='../imagenes/btn_mnu_press.jpg'; M_ep.click()"><a href="../ep/ep.html" class="Estilo3 Estilo1 Estilo1"  id="M_ep">Estrellas Peque&ntilde;as</a></td>
             </tr>
             <tr>
-              <td colspan="3"  class="Estilo8" onmouseover="this.background='../imagenes/btn_mnu_ov.jpg'" onmouseout="this.background=''" onmousedown="this.background='../imagenes/btn_mnu_press.jpg'; M_ntdrame.click()"><a href="../ntradame/ntradame-INTRO.htm"  class="Estilo3 Estilo1 Estilo1" id="M_ntdrame">Nostradamus</a></td>
+              <td colspan="3"  class="Estilo8" onmouseover="this.background='../imagenes/btn_mnu_ov.jpg'" onmouseout="this.background=''" onmousedown="this.background='../imagenes/btn_mnu_press.jpg'; M_ntdrame.click()"><a href="../ntradame/ntradame-INTRO.html"  class="Estilo3 Estilo1 Estilo1" id="M_ntdrame">Nostradamus</a></td>
             </tr>
             <tr>
-              <td colspan="3"  class="Estilo8" onmouseover="this.background='../imagenes/btn_mnu_ov.jpg'" onmouseout="this.background=''" onmousedown="this.background='../imagenes/btn_mnu_press.jpg'; M_rsol.click()"><a href="../rsol/la_ruta_del_sol.htm"  class="Estilo3 Estilo1 Estilo1" id="M_rsol">La Ruta del Sol</a></td>
+              <td colspan="3"  class="Estilo8" onmouseover="this.background='../imagenes/btn_mnu_ov.jpg'" onmouseout="this.background=''" onmousedown="this.background='../imagenes/btn_mnu_press.jpg'; M_rsol.click()"><a href="../rsol/la_ruta_del_sol.html"  class="Estilo3 Estilo1 Estilo1" id="M_rsol">La Ruta del Sol</a></td>
             </tr>
             <tr>
-              <td colspan="3"  class="Estilo8" onmouseover="this.background='../imagenes/btn_mnu_ov.jpg'" onmouseout="this.background=''" onmousedown="this.background='../imagenes/btn_mnu_press.jpg'; M_fcor.click()"><a href="../fcor/fcor.htm" class="Estilo3 Estilo1 Estilo1"  id="M_fcor">Fabula de Corima</a></td>
+              <td colspan="3"  class="Estilo8" onmouseover="this.background='../imagenes/btn_mnu_ov.jpg'" onmouseout="this.background=''" onmousedown="this.background='../imagenes/btn_mnu_press.jpg'; M_fcor.click()"><a href="../fcor/fcor.html" class="Estilo3 Estilo1 Estilo1"  id="M_fcor">Fabula de Corima</a></td>
             </tr>
             <tr>
-              <td colspan="3"  class="Estilo8" onmouseover="this.background='../imagenes/btn_mnu_ov.jpg'" onmouseout="this.background=''" onmousedown="this.background='../imagenes/btn_mnu_press.jpg'; M_pys.click()"><a href="../pys/pys.htm" class="Estilo3 Estilo1 Estilo1"  id="M_pys">Productos y Servicios</a></td>
+              <td colspan="3"  class="Estilo8" onmouseover="this.background='../imagenes/btn_mnu_ov.jpg'" onmouseout="this.background=''" onmousedown="this.background='../imagenes/btn_mnu_press.jpg'; M_pys.click()"><a href="../pys/pys.html" class="Estilo3 Estilo1 Estilo1"  id="M_pys">Productos y Servicios</a></td>
             </tr>
             <tr>
-              <td colspan="3"  class="Estilo8" onmouseover="this.background='../imagenes/btn_mnu_ov.jpg'" onmouseout="this.background=''" onmousedown="this.background='../imagenes/btn_mnu_press.jpg'; M_mc.click()"><a href="../mc/mc.htm" class="Estilo3 Estilo1 Estilo1"  id="M_mc">Mensajeros Celestiales</a> </td>
+              <td colspan="3"  class="Estilo8" onmouseover="this.background='../imagenes/btn_mnu_ov.jpg'" onmouseout="this.background=''" onmousedown="this.background='../imagenes/btn_mnu_press.jpg'; M_mc.click()"><a href="../mc/mc.html" class="Estilo3 Estilo1 Estilo1"  id="M_mc">Mensajeros Celestiales</a> </td>
             </tr>
             <tr>
-              <td colspan="3"  class="Estilo8" onmouseover="this.background='../imagenes/btn_mnu_ov.jpg'" onmouseout="this.background=''" onmousedown="this.background='../imagenes/btn_mnu_press.jpg'; M_jugar.click()"><a href="../ludo/jugar.htm" class="Estilo3 Estilo1 Estilo1" id="M_jugar">Juguemos</a></td>
+              <td colspan="3"  class="Estilo8" onmouseover="this.background='../imagenes/btn_mnu_ov.jpg'" onmouseout="this.background=''" onmousedown="this.background='../imagenes/btn_mnu_press.jpg'; M_jugar.click()"><a href="../ludo/jugar.html" class="Estilo3 Estilo1 Estilo1" id="M_jugar">Juguemos</a></td>
             </tr>
             <tr>
-              <td colspan="3"  class="Estilo8" onmouseover="this.background='../imagenes/btn_mnu_ov.jpg'" onmouseout="this.background=''" onmousedown="this.background='../imagenes/btn_mnu_press.jpg'; M_artik.click()"><a href="../articulos/Articulos.htm" class="Estilo3 Estilo1 Estilo1"  id="M_artik">Articulos</a></td>
+              <td colspan="3"  class="Estilo8" onmouseover="this.background='../imagenes/btn_mnu_ov.jpg'" onmouseout="this.background=''" onmousedown="this.background='../imagenes/btn_mnu_press.jpg'; M_artik.click()"><a href="../articulos/Articulos.html" class="Estilo3 Estilo1 Estilo1"  id="M_artik">Articulos</a></td>
             </tr>
             <tr>
               <td colspan="3"  class="Estilo8" onmouseover="this.background='../imagenes/btn_mnu_ov.jpg'" onmouseout="this.background=''" onmousedown="this.background='../imagenes/btn_mnu_press.jpg'; M_eh.click()"><a href="http://groups.msn.com/estrellashumanas" class="Estilo3 Estilo1 Estilo1"  id="M_eh">Estrellas Humanas</a></td>
             </tr>
             <tr>
-              <td colspan="3"  class="Estilo8" onmouseover="this.background='../imagenes/btn_mnu_ov.jpg'" onmouseout="this.background=''" onmousedown="this.background='../imagenes/btn_mnu_press.jpg'; M_tools.click()"><a href="../tools/tools.htm" class="Estilo3 Estilo1 Estilo1"  id="M_tools">Herramientas</a></td>
+              <td colspan="3"  class="Estilo8" onmouseover="this.background='../imagenes/btn_mnu_ov.jpg'" onmouseout="this.background=''" onmousedown="this.background='../imagenes/btn_mnu_press.jpg'; M_tools.click()"><a href="../tools/tools.html" class="Estilo3 Estilo1 Estilo1"  id="M_tools">Herramientas</a></td>
             </tr>
             <tr>
               <td colspan="3"  class="Estilo8" onmouseover="this.background='../imagenes/btn_mnu_ov.jpg'" onmouseout="this.background=''" onmousedown="this.background='../imagenes/btn_mnu_press.jpg'; M_pm.click()"><a href="../plantasM/plantasm.html" class="Estilo3 Estilo1 Estilo1"  id="M_pm">Plantas Milagrosas </a></td>
@@ -150,11 +150,11 @@
   <tr>
     <td height="52" colspan="2" valign="top" background="../imagenes/bar_az_med_mun.jpg" class="fondo_cel_vista">
 <p>
-  <!--- EstadisticasGratis.com | código --->
+  <!--- EstadisticasGratis.com | cï¿½digo --->
 </p>
 <table border="0" align="center" cellpadding="0" cellspacing="0">
   <tr><td align="center"><span style="display:none;" id="EstadCodeComprove">687474703A2F2F7777772E666F726D6174696F6E636F2E636F6D2F2E6672</span><span id="EstadCode" style="font-size : 11px; font-family : arial; color:9c9c9c;">courses: <a style="font-size : 11px; font-family : arial; color:000000;"  href="http://www.formationco.com/" id="LinkKey0">.fr</a><a style="font-size : 11px; font-family : arial; color:000000;"  href="http://www.omnibildung.de/" id="LinkKey1">.de</a><a style="font-size : 11px; font-family : arial; color:000000;"  href="http://www.educalivre.com/" id="LinkKey2">.pt</a><a style="font-size : 11px; font-family : arial; color:000000;"  href="http://www.coursenavi.com/" id="LinkKey3">.jp</a></span><span style="display:none;" id="ScriptCode"><img id='fwe_counter' src='../tafft/arbol/shim.gif' alt='Estadisticas y contadores web gratis' border='0'><script src="http://www.estadisticasgratis.com/trace-ScriptContadorNE.php?page=59123&digits=6"></script></span></td></tr>
-</table><!--- EstadisticasGratis.com | código ---></td>
+</table><!--- EstadisticasGratis.com | cï¿½digo ---></td>
   <td class="lado_mnu2">&nbsp;</td>
   <td></td>
   </tr>
@@ -163,7 +163,7 @@
 	
       <iframe src="/adds.html" frameborder="0" height="650" width="177" allowtransparency scrolling="no"></iframe>
       <p><br />
-        <a href="http://www.tommyswindow.com/downloads_spanish_01.htm"><img src="../imagenes/tmw.jpg" width="129" height="159" border="0" /></a></p>
+        <a href="http://www.tommyswindow.com/downloads_spanish_01.html"><img src="../imagenes/tmw.jpg" width="129" height="159" border="0" /></a></p>
       <p><a href="http://www.Colombiasoyyo.org" class="Estilo10">CLICK -&gt; Colombia soy yo </a><br />
         <br />
       </p></td>

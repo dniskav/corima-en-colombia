@@ -1,4 +1,4 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <script src="js/corima.js" language="JavaScript" type="text/javascript"></script>
@@ -25,9 +25,6 @@
       </object>
     </div>
     <div id="let"><img src="images/titulo-corima.jpg" /></div>
-    <div id="iplocator">
-		<iframe src="/iplocator.php" frameborder="0" height="33" width="411" allowtransparency="allowtransparency" scrolling="No"></iframe>
-		</div>
     <div id="clear_div"></div>
   </div>
   <div id="barra_tit">
@@ -46,25 +43,25 @@
 				</ul>
 <br />
         <ul>
-          <li><a href="../../cjesus/cjesus.htm">Consulta a Jes&uacute;s</a></li>
-          <li><a href="../../fcol/fcol.htm">F&aacute;bulas de Colombia</a></li>
-          <li><a href="../../tneyr/nombre.htm">Metodo Corima</a></li>
-          <li><a href="../../tafft/arbol.htm">Arbol</a></li>
-          <li><a href="../../tafft/florero.htm">Flor</a></li>
-          <li><a href="../../tafft/fruto.htm">Fruto</a></li>
-          <li><a href="../../ep/ep.htm" >Estrellas Peque&ntilde;as</a></li>
-          <li><a href="../../ntradame/ntradame-INTRO.htm">Nostradamus</a></li>
-          <li><a href="../../rsol/la_ruta_del_sol.htm">La Ruta del Sol</a></li>
-          <li><a href="../../fcor/fcor.htm">Fabula de Corima</a></li>
-          <li><a href="../../pys/pys.htm">Productos y Servicios</a></li>
-          <li><a href="../../mc/mc.htm">Mensajeros Celestiales</a></li>
-          <li><a href="../../ludo/jugar.htm">Juguemos</a></li>
-          <li><a href="../../articulos/Articulos.htm">Articulos</a></li>
+          <li><a href="/../../cjesus/cjesus.html">Consulta a Jes&uacute;s</a></li>
+          <li><a href="/../../fcol/fcol.html">F&aacute;bulas de Colombia</a></li>
+          <li><a href="/../../tneyr/nombre.html">Metodo Corima</a></li>
+          <li><a href="/../../tafft/arbol.html">Arbol</a></li>
+          <li><a href="/../../tafft/florero.html">Flor</a></li>
+          <li><a href="/../../tafft/fruto.html">Fruto</a></li>
+          <li><a href="/../../ep/ep.html" >Estrellas Peque&ntilde;as</a></li>
+          <li><a href="/../../ntradame/ntradame-INTRO.html">Nostradamus</a></li>
+          <li><a href="/../../rsol/la_ruta_del_sol.html">La Ruta del Sol</a></li>
+          <li><a href="/../../fcor/fcor.html">Fabula de Corima</a></li>
+          <li><a href="/../../pys/pys.html">Productos y Servicios</a></li>
+          <li><a href="/../../mc/mc.html">Mensajeros Celestiales</a></li>
+          <li><a href="/../../ludo/jugar.html">Juguemos</a></li>
+          <li><a href="/../../articulos/Articulos.html">Articulos</a></li>
           <li><a href="http://groups.msn.com/estrellashumanas">Estrellas Humanas</a></li>
-          <li><a href="../../tools/tools.htm">Herramientas</a></li>
-          <li><a href="../../plantasM/plantasm.html">Plantas Milagrosas </a></li>
-          <li><a href="../../adfechas/adfechas.html">Adorables Fechas </a></li>
-          <li><a href="../../videos/videos.html">Videos</a></li>
+          <li><a href="/../../tools/tools.html">Herramientas</a></li>
+          <li><a href="/../../plantasM/plantasm.html">Plantas Milagrosas </a></li>
+          <li><a href="/../../adfechas/adfechas.html">Adorables Fechas </a></li>
+          <li><a href="/../../videos/videos.html">Videos</a></li>
 				</ul>
 				<br />
 				<ul>

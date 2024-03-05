@@ -277,7 +277,7 @@ function arbol(capa){
 
 
 function musica_page(){
-	musica=window.open("musica.htm","musica", "directories=no,  menubar=no,status=no,toolbar=no,location=no,scrollbars=no,fullscreen=no,height=162,width=118");
+	musica=window.open("musica.html","musica", "directories=no,  menubar=no,status=no,toolbar=no,location=no,scrollbars=no,fullscreen=no,height=162,width=118");
 	musica.focus();
 	
 }
@@ -289,37 +289,37 @@ elDia = fch.getDate();
 function frasearbol(frase){
 var arboles=new Array()
 
-arboles[1]="1 -	Árbol de Manzana";
-arboles[2]="2 -	Árbol del Cacao";
-arboles[3]="3 -	Árbol del Ciprés";
-arboles[4]="4 -	Árbol del Almendro";
-arboles[5]="5 -	Árbol del Cedro";
-arboles[6]="6 -	Árbol del Durazno";
-arboles[7]="7 -	Árbol Jazmín del Cabo";
-arboles[8]="8 -	Árbol del Nogal";
-arboles[9]="9 -	Árbol de la Acacia";
-arboles[10]="10 -	Árbol de Pino";
-arboles[11]="11 -	Árbol del Olivo";
-arboles[12]="12 -	Árbol del Caucho";
-arboles[13]="13 -	Árbol del Ciruelo";
-arboles[14]="14 -	Árbol del Sauce";
-arboles[15]="15 -	Árbol de Alcaparro";
-arboles[16]="16 -	Árbol de Roble";
-arboles[17]="17 -	Árbol del Cerezo";
-arboles[18]="18 -	Árbol de la Guayaba";
-arboles[19]="19 -	Árbol de Sauco";
-arboles[20]="20 -	Árbol de Madroño";
-arboles[21]="21 -	Árbol de Zapote";
-arboles[22]="22 -	Árbol de Aguacate";
-arboles[23]="23 -	Árbol de la Guama";
-arboles[24]="24 -	Árbol del Guayacán";
-arboles[25]="25 -	Árbol de Lima";
-arboles[26]="26 -	Árbol del Eucalipto";
-arboles[27]="27 -	Árbol del Limón";
-arboles[28]="28 -	Árbol de Naranja";
-arboles[29]="29 -	Árbol del Mango";
-arboles[30]="30 -	Árbol de Mandarina";
-arboles[31]="31 -	Árbol de Breva";
+arboles[1]="1 -	ï¿½rbol de Manzana";
+arboles[2]="2 -	ï¿½rbol del Cacao";
+arboles[3]="3 -	ï¿½rbol del Ciprï¿½s";
+arboles[4]="4 -	ï¿½rbol del Almendro";
+arboles[5]="5 -	ï¿½rbol del Cedro";
+arboles[6]="6 -	ï¿½rbol del Durazno";
+arboles[7]="7 -	ï¿½rbol Jazmï¿½n del Cabo";
+arboles[8]="8 -	ï¿½rbol del Nogal";
+arboles[9]="9 -	ï¿½rbol de la Acacia";
+arboles[10]="10 -	ï¿½rbol de Pino";
+arboles[11]="11 -	ï¿½rbol del Olivo";
+arboles[12]="12 -	ï¿½rbol del Caucho";
+arboles[13]="13 -	ï¿½rbol del Ciruelo";
+arboles[14]="14 -	ï¿½rbol del Sauce";
+arboles[15]="15 -	ï¿½rbol de Alcaparro";
+arboles[16]="16 -	ï¿½rbol de Roble";
+arboles[17]="17 -	ï¿½rbol del Cerezo";
+arboles[18]="18 -	ï¿½rbol de la Guayaba";
+arboles[19]="19 -	ï¿½rbol de Sauco";
+arboles[20]="20 -	ï¿½rbol de Madroï¿½o";
+arboles[21]="21 -	ï¿½rbol de Zapote";
+arboles[22]="22 -	ï¿½rbol de Aguacate";
+arboles[23]="23 -	ï¿½rbol de la Guama";
+arboles[24]="24 -	ï¿½rbol del Guayacï¿½n";
+arboles[25]="25 -	ï¿½rbol de Lima";
+arboles[26]="26 -	ï¿½rbol del Eucalipto";
+arboles[27]="27 -	ï¿½rbol del Limï¿½n";
+arboles[28]="28 -	ï¿½rbol de Naranja";
+arboles[29]="29 -	ï¿½rbol del Mango";
+arboles[30]="30 -	ï¿½rbol de Mandarina";
+arboles[31]="31 -	ï¿½rbol de Breva";
 
 document.write(" "+arboles[frase]+" ")
 
@@ -328,18 +328,18 @@ return;
 function frasefruto(frase){
 var frutos=new Array()
 
-frutos[1]="1º =	Enero las uvas";
-frutos[2]="2º =	Febrero el banano";
-frutos[3]="3º =	Marzo las fresas";
-frutos[4]="4º =	Abril las moras";
-frutos[5]="5º =	Mayo la guanábana";
-frutos[6]="6º =	Junio la pera";
-frutos[7]="7º =	Julio la sandia";
-frutos[8]="8º =	Agosto el lulo";
-frutos[9]="9º =	Septiembre el coco";
-frutos[10]="10º =	Octubre la piña";
-frutos[11]="11º =	Noviembre el Kiwi";
-frutos[12]="12º = Diciembre  las cerezas";
+frutos[1]="1ï¿½ =	Enero las uvas";
+frutos[2]="2ï¿½ =	Febrero el banano";
+frutos[3]="3ï¿½ =	Marzo las fresas";
+frutos[4]="4ï¿½ =	Abril las moras";
+frutos[5]="5ï¿½ =	Mayo la guanï¿½bana";
+frutos[6]="6ï¿½ =	Junio la pera";
+frutos[7]="7ï¿½ =	Julio la sandia";
+frutos[8]="8ï¿½ =	Agosto el lulo";
+frutos[9]="9ï¿½ =	Septiembre el coco";
+frutos[10]="10ï¿½ =	Octubre la piï¿½a";
+frutos[11]="11ï¿½ =	Noviembre el Kiwi";
+frutos[12]="12ï¿½ = Diciembre  las cerezas";
 
 document.write(" "+frutos[frase]+" ")
 
@@ -429,7 +429,7 @@ function numerology(cadena){
 			case "f":
 				total=total+6;
 				break;
-			case "ñ":
+			case "ï¿½":
 				total=total+6;
 				break;
 			case "w":
@@ -697,11 +697,11 @@ function genera(control,Letra){
 		opc=cadena.charAt(i);
 		switch(opc){
 			
-			case "á":
-			case "à":
-			case "â":
-			case "ä":
-			case "å":
+			case "ï¿½":
+			case "ï¿½":
+			case "ï¿½":
+			case "ï¿½":
+			case "ï¿½":
 			case "a":
 				inicio._a.value=parseInt(inicio._a.value)+1;
 				F_a=1;
@@ -722,10 +722,10 @@ function genera(control,Letra){
 				inicio._d.value=parseInt(inicio._d.value)+1;
 				break;
 				
-			case "é":
-			case "è":
-			case "ê":
-			case "ë":
+			case "ï¿½":
+			case "ï¿½":
+			case "ï¿½":
+			case "ï¿½":
 			case "e":			
 				F_e=1;
 				inicio._e.value=parseInt(inicio._e.value)+1;
@@ -746,10 +746,10 @@ function genera(control,Letra){
 				inicio._h.value=parseInt(inicio._h.value)+1;
 				break;
 				
-			case "í":
-			case "ì":
-			case "ï":
-			case "î":
+			case "ï¿½":
+			case "ï¿½":
+			case "ï¿½":
+			case "ï¿½":
 			case "i":
 				F_i=1;
 				inicio._i.value=parseInt(inicio._i.value)+1;
@@ -780,15 +780,15 @@ function genera(control,Letra){
 				inicio._n.value=parseInt(inicio._n.value)+1;
 				break;
 				
-			case "ñ":
+			case "ï¿½":
 				F_nn=1;
 				inicio._nn.value=parseInt(inicio._nn.value)+1;
 				break;
 				
-			case "ó":
-			case "ò":
-			case "ö":
-			case "ô":
+			case "ï¿½":
+			case "ï¿½":
+			case "ï¿½":
+			case "ï¿½":
 			case "o":
 				F_o=1;
 				inicio._o.value=parseInt(inicio._o.value)+1;
@@ -819,10 +819,10 @@ function genera(control,Letra){
 				inicio._t.value=parseInt(inicio._t.value)+1;
 				break;
 				
-			case "ú":
-			case "ù":
-			case "ü":
-			case "û":
+			case "ï¿½":
+			case "ï¿½":
+			case "ï¿½":
+			case "ï¿½":
 			case "u":
 				F_u=1;
 				inicio._u.value=parseInt(inicio._u.value)+1;
@@ -909,11 +909,11 @@ function xgrama(codigo){
 				xcodigo=xcodigo+" ";
 				corrije++;
 				break;
-			case "á":
-			case "à":
-			case "â":
-			case "ä":
-			case "å":
+			case "ï¿½":
+			case "ï¿½":
+			case "ï¿½":
+			case "ï¿½":
+			case "ï¿½":
 			case "a":
 				if(_a==1){
 				;
@@ -946,10 +946,10 @@ function xgrama(codigo){
 				if(tablero.TD.value<=0){_d=0;}
 				}
 				break;
-			case "é":
-			case "è":
-			case "ê":
-			case "ë":
+			case "ï¿½":
+			case "ï¿½":
+			case "ï¿½":
+			case "ï¿½":
 			case "e":			
 				if(_e==1){
 				;
@@ -982,10 +982,10 @@ function xgrama(codigo){
 				if(tablero.TH.value<=0){_h=0;}
 				}
 				break;
-			case "í":
-			case "ì":
-			case "ï":
-			case "î":
+			case "ï¿½":
+			case "ï¿½":
+			case "ï¿½":
+			case "ï¿½":
 			case "i":
 				if(_i==1){
 				;
@@ -1034,7 +1034,7 @@ function xgrama(codigo){
 				if(tablero.TN.value<=0){_n=0;}
 				}
 				break;
-			case "ñ":
+			case "ï¿½":
 				if(_nn==1){
 				;
 				tablero.TNN.value--;
@@ -1042,10 +1042,10 @@ function xgrama(codigo){
 				if(tablero.TNN.value<=0){_n=0;}
 				}
 				break;
-			case "ó":
-			case "ò":
-			case "ö":
-			case "ô":
+			case "ï¿½":
+			case "ï¿½":
+			case "ï¿½":
+			case "ï¿½":
 			case "o":
 				if(_o==1){
 				;
@@ -1094,10 +1094,10 @@ function xgrama(codigo){
 				if(tablero.TT.value<=0){_t=0;}
 				}
 				break;
-			case "ú":
-			case "ù":
-			case "ü":
-			case "û":
+			case "ï¿½":
+			case "ï¿½":
+			case "ï¿½":
+			case "ï¿½":
 			case "u":
 				if(_u==1){
 				;
@@ -1192,11 +1192,11 @@ function xgrama(codigo){
 	for(i=-1;i<control;i++){
 		opc=cadena.charAt(i+1);
 		switch(opc){
-			case "á":
-			case "à":
-			case "â":
-			case "ä":
-			case "å":
+			case "ï¿½":
+			case "ï¿½":
+			case "ï¿½":
+			case "ï¿½":
+			case "ï¿½":
 			case "a":
 				;
 				tablero.TA.value++;
@@ -1217,10 +1217,10 @@ function xgrama(codigo){
 				tablero.TD.value++;
 				_d=1;
 				break;
-			case "é":
-			case "è":
-			case "ê":
-			case "ë":
+			case "ï¿½":
+			case "ï¿½":
+			case "ï¿½":
+			case "ï¿½":
 			case "e":			
 				;
 				tablero.TE.value++;
@@ -1241,10 +1241,10 @@ function xgrama(codigo){
 				tablero.TH.value++;
 				_h=1;
 				break;
-			case "í":
-			case "ì":
-			case "ï":
-			case "î":
+			case "ï¿½":
+			case "ï¿½":
+			case "ï¿½":
+			case "ï¿½":
 			case "i":
 				;
 				tablero.TI.value++;
@@ -1275,15 +1275,15 @@ function xgrama(codigo){
 				tablero.TN.value++;
 				_n=1;
 				break;
-			case "ñ":
+			case "ï¿½":
 				;
 				tablero.TNN.value++;
 				_nn=1;
 				break;
-			case "ó":
-			case "ò":
-			case "ö":
-			case "ô":
+			case "ï¿½":
+			case "ï¿½":
+			case "ï¿½":
+			case "ï¿½":
 			case "o":
 				;
 				tablero.TO.value++;
@@ -1314,10 +1314,10 @@ function xgrama(codigo){
 				tablero.TT.value++;
 				_t=1;
 				break;
-			case "ú":
-			case "ù":
-			case "ü":
-			case "û":
+			case "ï¿½":
+			case "ï¿½":
+			case "ï¿½":
+			case "ï¿½":
 			case "u":
 				;
 				tablero.TU.value++;
@@ -1357,7 +1357,7 @@ function xgrama(codigo){
 	totalgrap.value=i;
 	finalgrap.value=totalgrap.value;
 	if (i<=0){
-		alert("tu nombre no es válido. intentalo de nuevo "+ i )
+		alert("tu nombre no es vï¿½lido. intentalo de nuevo "+ i )
 		return ""
 		}
 	}

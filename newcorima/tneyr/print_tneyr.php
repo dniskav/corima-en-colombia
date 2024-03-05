@@ -19,7 +19,7 @@
 <body onLoad="window.print();">
 <center>
   <p>
-    <script language="javascript" src="../../templates/corimadiv/js/corima.js"></script>
+    <script language="javascript" src="../../Templates/js/corima.js"></script>
     <SCRIPT LANGUAGE=JavaScript>
 function pasarDatos(){
 	window.document.estrellaFlash.SetVariable("A.num.text", <?php echo $_GET['_a']; ?>);
@@ -431,7 +431,7 @@ function extencion($nombre,$ext){
         <div align="left" class="Estilo5">
           <center>
           .
-            <? For ($i=1;$i<=$_GET['_nn'];$i++){echo"Ñ";}?>
+            <? For ($i=1;$i<=$_GET['_nn'];$i++){echo"ï¿½";}?>
           </center>
       </div></td>
       <td align="center" > <span class="Estilo6"><b>W</b></span></td>

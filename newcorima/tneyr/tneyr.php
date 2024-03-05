@@ -1,4 +1,4 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/base.dwt" codeOutsideHTMLIsLocked="false" -->
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -9,7 +9,7 @@
 <!-- InstanceEndEditable -->
 <link href="../../templates/corimadiv/css/main.css"  rel="stylesheet" type="text/css" />
 <!-- InstanceBeginEditable name="js" -->
-<script language="javascript" src="../../Templates/corimadiv/js/corima.js"></script>
+<script language="javascript" src="../../Templates/js/corima.js"></script>
 <!-- InstanceEndEditable -->
 <!-- InstanceBeginEditable name="robots" -->
 <title>Documento sin t&iacute;tulo</title>
@@ -77,7 +77,7 @@ function elimina_acentos($cadena){
   <table width="200" border="8" bgcolor="#0000FF" class="tabla_fondo">
     <!--DWLayoutTable-->
     <tr>
-      <td width="190" height="49" valign="top"><p align="center"><a href="metodo_nombre.htm">Quieres Otra Consulta ??? </a></p>
+      <td width="190" height="49" valign="top"><p align="center"><a href="metodo_nombre.html">Quieres Otra Consulta ??? </a></p>
           <p align="center">
             <input type="button" name="Submit" value="Versi&oacute;n Imprimible " onclick="imprimir_var()" />
         </p></td>
@@ -1002,7 +1002,7 @@ function elimina_acentos($cadena){
   <script language="JavaScript" type="text/javascript">
 	pasarDatos();
 </script>
-  <a href="metodo_nombre.htm">Quieres Otra Consulta ???</a></div>
+  <a href="metodo_nombre.html">Quieres Otra Consulta ???</a></div>
     <!-- InstanceEndEditable -->
   <div id="menu_izq">
     <div id="menu_bas"> </div>
